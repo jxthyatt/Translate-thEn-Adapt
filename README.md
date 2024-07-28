@@ -7,21 +7,21 @@ We provide quantitative results and pretrained weights in demo “GTA5 to Foggy 
 
 | Method                       | DDA            | Pub’Year            | mIoU            | mIoU Gain             | Weight file                                                          |
 |------------------------------|----------------|---------------------|-----------------|-----------------------|----------------------------------------------------------------------|
-| Source only                  | -              | -                   | 31.4            | 0.9276 ± 0.0087 | [Link](https://pan.baidu.com/s/175BXR675dQSyhFX14bk5zg) (Code: l4oh) |
-| CycleGAN                     | A              | ICCV’17             | 39.3            | 0.9276 ± 0.0087 |[Link](https://pan.baidu.com/s/175BXR675dQSyhFX14bk5zg) (Code: l4oh) |
-| UNIT                         | A              | NeurIPS’17          | 25.7            | 0.9327 ± 0.0104 | [Link](https://pan.baidu.com/s/175BXR675dQSyhFX14bk5zg) (Code: l4oh) |
-| MUNIT                        | A              | ECCV’18             | 21.9            | 0.9237 ± 0.0089 | [Link](https://pan.baidu.com/s/175BXR675dQSyhFX14bk5zg) (Code: l4oh) |
-| DRIT++                       | A              | IJCV’20             | 40.4            | 0.9295 ± 0.0049 | [Link](https://pan.baidu.com/s/175BXR675dQSyhFX14bk5zg) (Code: l4oh) |
-| CUT                          | A              | ECCV’20             | 39.4            | 0.9279 ± 0.0077 | -                                                                    |
-| NEGCUT                       | A              | ICCV’21             | 36.0            | 0.9279 ± 0.0077 | -                                                                    |
-| LADD                         | A              | WACV’23             | 35.3            | 0.9279 ± 0.0077 | -                                                                    |
-| TEA$^\dagger$ (ours)         | A              | TMM’24              | 43.0            | 0.9279 ± 0.0077 | -                                                                    |
-| SFDA-Seg                     | B              | ICCV’21             | 44.5            | 0.9279 ± 0.0077 | -                                                                    |
-| HCL                          | B              | NeurIPS’21          | 37.8            | 0.9279 ± 0.0077 | -                                                                    |
-| LDBE                         | B              | ACMMM’21            | 48.2            | 0.9279 ± 0.0077 | -                                                                    |
-| ProDA                        | B              | CVPR’21             | 49.2            | 0.9279 ± 0.0077 | -                                                                    |
-| SFOCDA                       | B              | TCSVT’22            | 38.7            | 0.9279 ± 0.0077 | -                                                                    |
-| ProCA                        | B              | ECCV’22             | 44.8            | 0.9279 ± 0.0077 | -                                                                    |
-| RIPU$^\ast$                  | B              | CVPR’22             | 66.8            | 0.9279 ± 0.0077 | -                                                                    |
-| SimT                         | B              | TPAMI’23            | 54.6            | 0.9279 ± 0.0077 | -                                                                    |
-| TEA$^\ddagger$ (ours)        | B              | TMM’24              | 55.3            | 0.9279 ± 0.0077 | -                                                                    |
+| Source only                  | -              | -                   | 31.4            | 0.0                   | -                                                                    |
+| CycleGAN                     | A              | ICCV’17             | 39.3            | 7.9                   | -                                                                    |
+| UNIT                         | A              | NeurIPS’17          | 25.7            | -5.7                  | -                                                                    |
+| MUNIT                        | A              | ECCV’18             | 21.9            | -9.5                  | -                                                                    |
+| DRIT++                       | A              | IJCV’20             | 40.4            | 9.0                   | -                                                                    |
+| CUT                          | A              | ECCV’20             | 39.4            | 8.0                   | -                                                                    |
+| NEGCUT                       | A              | ICCV’21             | 36.0            | 4.6                   | -                                                                    |
+| LADD                         | A              | WACV’23             | 35.3            | -6.0                  | -                                                                    |
+| TEA$^\dagger$ (ours)         | A              | TMM’24              | 43.0            | 11.6                  | -                                                                    |
+| SFDA-Seg                     | B              | ICCV’21             | 44.5            | 13.1                  | -                                                                    |
+| HCL                          | B              | NeurIPS’21          | 37.8            | 6.4                   | -                                                                    |
+| LDBE                         | B              | ACMMM’21            | 48.2            | 16.8                  | -                                                                    |
+| ProDA                        | B              | CVPR’21             | 49.2            | 17.8                  | -                                                                    |
+| SFOCDA                       | B              | TCSVT’22            | 38.7            | 7.3                   | -                                                                    |
+| ProCA                        | B              | ECCV’22             | 44.8            | 13.4                  | -                                                                    |
+| RIPU$^\ast$                  | B              | CVPR’22             | 66.8            | 35.4                  | -                                                                    |
+| SimT                         | B              | TPAMI’23            | 54.6            | 23.2                  | -                                                                    |
+| TEA$^\ddagger$ (ours)        | B              | TMM’24              | 55.3            | 23.9                  | -                                                                    |
