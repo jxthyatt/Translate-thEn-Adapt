@@ -30,8 +30,8 @@ We provide quantitative results and checkpoint files in demo “from GTA5 to Fog
 
 We visualize examples of foggy scene understanding in demo “from GTA5 to Foggy Cityscapes” (here model is tested on Foggy Cityscapes dataset). Compared to federated or source-free DDA baseline, our TEA (DisCoGAN+ProRA) obtains 55.26% in mIoU to reach state-of-the-art performance for SFSU.
 <p align="center">
-<img src="assets/Fig9.png" width="700px"/></p>
+<img src="assets/Fig9.pdf" width="700px"/></p>
 
-![image](assets/Fig9.png)
+![image](assets/Fig9.pdf)
 
 
