@@ -27,3 +27,9 @@ We provide quantitative results and checkpoint files in demo “from GTA5 to Fog
 | DisCoGAN+ProRA (ours)        | B              | TMM’24              | 55.3            | 23.9                  | [Link](https://pan.baidu.com/s/15B2o1f46rkMcWl_1zWkPNw) (Code: hp3h)     |
 
 
+<p align="center">
+<img src="assets/Fig9.png" width="700px"/></p>
+
+
+
+
