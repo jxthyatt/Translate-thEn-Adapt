@@ -2,7 +2,7 @@
 Official repository for the submitted paper “Federated Hallucination Translation and Source-free Regularization Adaptation in Decentralized Domain Adaptation for Foggy Scene Understanding”. Previous version of Code is [here](https://github.com/jxthyatt/DDA-CoSoAdapt). Final Code will be released after acceptance.
 
 ## Replicate Demo and Results
-### GTA5 to Foggy Cityscapes
+### GTA5 to Foggy Cityscapes (TABLE I)
 We provide quantitative results and checkpoint files in demo “from GTA5 to Foggy Cityscapes” (here model is tested on Foggy Cityscapes dataset). Please view more details in TABLE I.
 
 
@@ -32,7 +32,7 @@ We visualize examples of foggy scene understanding in demo “from GTA5 to Foggy
 <p align="center">
 <img src="assets/Fig9.pdf" width="700px"/></p>
 
-### SYNTHIA to Foggy Cityscapes
+### SYNTHIA to Foggy Cityscapes (TABLE II)
 We provide quantitative results and checkpoint files in demo “from SYNTHIA to Foggy Cityscapes” (here model is tested on Foggy Cityscapes dataset). Please view more details in TABLE II.
 
 
