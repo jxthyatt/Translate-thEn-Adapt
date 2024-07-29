@@ -15,13 +15,13 @@ We provide quantitative results and checkpoint files in demo “from GTA5 to Fog
 | CUT                          | A              | ECCV’20             | 39.4            | 8.0                   | -                                                                    |
 | NEGCUT                       | A              | ICCV’21             | 36.0            | 4.6                   | -                                                                    |
 | LADD                         | A              | WACV’23             | 35.3            | -6.0                  | -                                                                    |
-| TEA$^\dagger$ (ours)         | A              | TMM’24              | 43.0            | 11.6                  | -                                                                    |
+| DisCoGAN (ours)              | A              | TMM’24              | 43.0            | 11.6                  | -                                                                    |
 | SFDA-Seg                     | B              | ICCV’21             | 44.5            | 13.1                  | -                                                                    |
 | HCL                          | B              | NeurIPS’21          | 37.8            | 6.4                   | -                                                                    |
-| LDBE                         | B              | ACMMM’21            | 48.2            | 16.8                  | -                                                                    |
+| LDBE                         | B              | MM’21               | 48.2            | 16.8                  | -                                                                    |
 | ProDA                        | B              | CVPR’21             | 49.2            | 17.8                  | -                                                                    |
 | SFOCDA                       | B              | TCSVT’22            | 38.7            | 7.3                   | -                                                                    |
 | ProCA                        | B              | ECCV’22             | 44.8            | 13.4                  | -                                                                    |
 | RIPU$^\ast$                  | B              | CVPR’22             | 66.8            | 35.4                  | -                                                                    |
 | SimT                         | B              | TPAMI’23            | 54.6            | 23.2                  | -                                                                                |
-| TEA$^\ddagger$ (ours)        | B              | TMM’24              | 55.3            | 23.9                  | [Link](https://pan.baidu.com/s/15B2o1f46rkMcWl_1zWkPNw) (Code: hp3h)    |
+| DisCoGAN+ProRA (ours)        | B              | TMM’24              | 55.3            | 23.9                  | [Link](https://pan.baidu.com/s/15B2o1f46rkMcWl_1zWkPNw) (Code: hp3h)    |
