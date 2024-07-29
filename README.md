@@ -3,11 +3,11 @@ Official repository for the submitted paper “Federated Hallucination Translati
 
 ## Replicate Demo and Results
 ### GTA5 to Foggy Cityscapes
-We provide quantitative results and pretrained weights in demo “GTA5 to Foggy Cityscapes” (here model is tested on Foggy Cityscapes dataset). Please find more details in TABLE I.
+We provide quantitative results and checkpoint files in demo “from GTA5 to Foggy Cityscapes” (here model is tested on Foggy Cityscapes dataset). Please view more details in TABLE I.
 
 | Method                       | DDA            | Pub’Year            | mIoU            | Gain                  | Checkpoint file                                                          |
 |------------------------------|----------------|---------------------|-----------------|-----------------------|--------------------------------------------------------------------------|
-| Source only                  | -              | -                   | 31.4            | 0.0                   | -                                                                    |
+| Source only                  | -              | -                   | 31.4            | 0.0                   | [Link](https://pan.baidu.com/s/1oSwHCyXoibNPgvUDZhXHjA) (Code: ppdu)     |
 | CycleGAN                     | A              | ICCV’17             | 39.3            | 7.9                   | -                                                                    |
 | UNIT                         | A              | NeurIPS’17          | 25.7            | -5.7                  | -                                                                    |
 | MUNIT                        | A              | ECCV’18             | 21.9            | -9.5                  | -                                                                    |
@@ -24,4 +24,4 @@ We provide quantitative results and pretrained weights in demo “GTA5 to Foggy 
 | ProCA                        | B              | ECCV’22             | 44.8            | 13.4                  | -                                                                    |
 | RIPU$^\ast$                  | B              | CVPR’22             | 66.8            | 35.4                  | -                                                                    |
 | SimT                         | B              | TPAMI’23            | 54.6            | 23.2                  | -                                                                                |
-| TEA$^\ddagger$ (ours)        | B              | TMM’24              | 55.3            | 23.9                  | [Link](https://pan.baidu.com/s/1F5UihtsKg4H_j9OaDc17cg) (Code: abqn)    |
+| TEA$^\ddagger$ (ours)        | B              | TMM’24              | 55.3            | 23.9                  | [Link](https://pan.baidu.com/s/15B2o1f46rkMcWl_1zWkPNw) (Code: hp3h)    |
