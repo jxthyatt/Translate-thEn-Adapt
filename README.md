@@ -32,6 +32,6 @@ We visualize examples of foggy scene understanding in demo “from GTA5 to Foggy
 <p align="center">
 <img src="assets/Fig9.png" width="700px"/></p>
 
-
+![image](assets/Fig9.png)
 
 
