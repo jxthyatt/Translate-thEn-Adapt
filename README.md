@@ -5,6 +5,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 ### GTA5 to Foggy Cityscapes
 We provide quantitative results and checkpoint files in demo “from GTA5 to Foggy Cityscapes” (here model is tested on Foggy Cityscapes dataset). Please view more details in TABLE I.
 
+
 | Method                       | DDA            | Pub’Year            | mIoU            | Gain                  | Checkpoint file                                                          |
 |------------------------------|----------------|---------------------|-----------------|-----------------------|--------------------------------------------------------------------------|
 | Source only                  | -              | -                   | 31.4            | -                     | [Link](https://pan.baidu.com/s/1oSwHCyXoibNPgvUDZhXHjA) (Code: ppdu)     |
@@ -27,6 +28,7 @@ We provide quantitative results and checkpoint files in demo “from GTA5 to Fog
 | DisCoGAN+ProRA (ours)        | B              | TMM’24              | 55.3            | 23.9                  | [Link](https://pan.baidu.com/s/15B2o1f46rkMcWl_1zWkPNw) (Code: hp3h)     |
 
 
+We visualize examples of foggy scene understanding in demo “from GTA5 to Foggy Cityscapes” (here model is tested on Foggy Cityscapes dataset). Compared to federated or source-free DDA baseline, our TEA (DisCoGAN+ProRA) obtains 55.26% in mIoU to reach state-of-the-art performance for SFSU.
 <p align="center">
 <img src="assets/Fig9.png" width="700px"/></p>
 
