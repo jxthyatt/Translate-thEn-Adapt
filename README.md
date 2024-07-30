@@ -1,5 +1,5 @@
 # Translate-thEn-Adapt (TEA)
-Official repository for the submitted paper “Federated Hallucination Translation and Source-free Regularization Adaptation in Decentralized Domain Adaptation for Foggy Scene Understanding”. :rainbow: Previous version of Code is [here](https://github.com/jxthyatt/DDA-CoSoAdapt). :rainbow: Final version of Code will be released after acceptance.
+Official repository for the submitted paper “Federated Hallucination Translation and Source-free Regularization Adaptation in Decentralized Domain Adaptation for Foggy Scene Understanding”. Previous version of Code is [here](https://github.com/jxthyatt/DDA-CoSoAdapt). :rainbow: Final version of Code will be released after acceptance.
 
 ## Replicate Demo and Results
 ### GTA5 to Foggy Cityscapes ( :herb::herb: TABLE I)
