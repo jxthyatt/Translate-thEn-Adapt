@@ -3,7 +3,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 
 ## Replicate Demo and Results
 ### GTA5 to Foggy Cityscapes ( :four_leaf_clover: TABLE I)
-We provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” ( :warning: here model is tested on Foggy Cityscapes dataset). Please view more details in TABLE I.
+:rocket: We provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” ( :warning: here model is tested on Foggy Cityscapes dataset). Please view more details in TABLE I.
 
 
 | Method                       | DDA            | Pub’Year            | mIoU            | Gain                  | Checkpoint file                                                          |
@@ -36,7 +36,7 @@ We visualize examples of foggy scene understanding in demo “from [GTA5](https:
 <img src="assets/Fig9.pdf" width="700px"/></p>
 
 ### SYNTHIA to Foggy Cityscapes ( :four_leaf_clover: TABLE II)
-We provide quantitative results and checkpoint files in demo “from [SYNTHIA](https://synthia-dataset.net/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” (here model is tested on Foggy Cityscapes dataset). Please view more details in TABLE II.
+:rocket: We provide quantitative results and checkpoint files in demo “from [SYNTHIA](https://synthia-dataset.net/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” (here model is tested on Foggy Cityscapes dataset). Please view more details in TABLE II.
 
 
 | Method                       | DDA            | Pub’Year            | mIoU            | Gain                  | Checkpoint file                                                          |
@@ -69,7 +69,7 @@ We visualize examples of foggy scene understanding in demo “from [SYNTHIA](htt
 <img src="assets/Fig10.pdf" width="700px"/></p>
 
 ### GTA5 to Foggy Driving ( :four_leaf_clover: TABLE III)
-We provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Driving](https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/)” ( :warning: here model is tested on unseen Foggy Driving dataset). Please view more details in TABLE III.
+:rocket: We provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Driving](https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/)” ( :warning: here model is tested on unseen Foggy Driving dataset). Please view more details in TABLE III.
 
 
 | Method                    | DDA        | Pub’Year            | FC            | FD            | FZ            | Checkpoint file                                                          |
