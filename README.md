@@ -2,7 +2,7 @@
 Official repository for the submitted paper “Federated Hallucination Translation and Source-free Regularization Adaptation in Decentralized Domain Adaptation for Foggy Scene Understanding”. Previous version of Code is [here](https://github.com/jxthyatt/DDA-CoSoAdapt). Final Code will be released after acceptance.
 
 ## Replicate Demo and Results
-### GTA5 to Foggy Cityscapes (Corresponding to TABLE I)
+### GTA5 to Foggy Cityscapes (TABLE I)
 We provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” (here model is tested on Foggy Cityscapes dataset). Please view more details in TABLE I.
 
 
@@ -35,7 +35,7 @@ We visualize examples of foggy scene understanding in demo “from [GTA5](https:
 <p align="center">
 <img src="assets/Fig9.pdf" width="700px"/></p>
 
-### SYNTHIA to Foggy Cityscapes (Corresponding to TABLE II)
+### SYNTHIA to Foggy Cityscapes (TABLE II)
 We provide quantitative results and checkpoint files in demo “from [SYNTHIA](https://synthia-dataset.net/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” (here model is tested on Foggy Cityscapes dataset). Please view more details in TABLE II.
 
 
@@ -68,24 +68,24 @@ We visualize examples of foggy scene understanding in demo “from [SYNTHIA](htt
 <p align="center">
 <img src="assets/Fig10.pdf" width="700px"/></p>
 
-### GTA5 to Foggy Driving (Corresponding to TABLE III)
+### GTA5 to Foggy Driving (TABLE III)
 We provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” (here model is tested on unseen Foggy Driving or Foggy Zurich dataset). Please view more details in TABLE III.
 
 
 | Method                    | DDA        | Pub’Year            | FC            | FD            | FZ            | Checkpoint file                                                          |
 |---------------------------|------------|---------------------|---------------|---------------|---------------|--------------------------------------------------------------------------|
 | Source only               | -          | -                   | 31.39         | 33.24         | 23.33         | [Link](https://pan.baidu.com/s/17K2VJVJkjrY-KOUwDNOjoA) (Code: ses8)     |
-| ADVENT                    | &#10004;   | CVPR’19             | 36.89         | 33.48         | 21.71         | [Link](https://pan.baidu.com/s/1TLcvC1kkKdAd80Tj5DIEfg) (Code: vtex)     |
-| DISE                      | A          | CVPR’19             | 41.47         | 34.63         | 22.40         | [Link](https://pan.baidu.com/s/1Ro30WEFC0NIOc_ye0Y-kCw) (Code: 4dfn)     |
-| CAG-UDA                   | A          | NeurIPS’19          | 45.44         | 35.60         | 37.04         | [Link](https://pan.baidu.com/s/15jGyInrCvRFS5901HdWMEg) (Code: tkpt)     |
-| MaxSquareLoss             | A          | ICCV’19             | 38.28         | 35.38         | 24.14         | [Link](https://pan.baidu.com/s/1TnqcrC7HNHLKdJ0nu2F36w) (Code: p334)     |
-| Classes Matter            | A          | ECCV’20             | 36.53         | 29.59         | 23.31         | [Link](https://pan.baidu.com/s/1GVtMJU1QbJeSls5gq54yGw) (Code: eth5)     |
-| ASANet                    | A          | TIP’21              | 36.15         | 30.30         | 20.95         | [Link](https://pan.baidu.com/s/16fnnhYwl_ClEEzfJuScx-A) (Code: 9enn)     |
-| RobustNet                 | A          | CVPR’21             | 38.38         | 32.90         | 25.84         | [Link](https://pan.baidu.com/s/1VDULhtLO4VLy7W0l1v-9rw) (Code: exc4)     |
-| Seg-Uncertainty           | A          | IJCV’21             | 48.17         | 38.39         | 26.39         | [Link](https://pan.baidu.com/s/10xerTzDBD2KlOriyjDux9g) (Code: hswv)     |
-| DisCoGAN (ours)           | B          | TMM’24              | 43.05         | 35.91         | 30.47         | [Link](https://pan.baidu.com/s/1i_WcN8wlZRI8T0T1FMS8IA) (Code: yf92)     |
-| ProRA (ours)              | B          | TMM’24              | 49.71         | 37.65         | 32.28         | [Link](https://pan.baidu.com/s/1FP6A6Hk3IxFBhcgNVrNUfA) (Code: neci)     |
-| DisCoGAN+ProRA (ours)     | B          | TMM’24              | 55.26         | 42.24         | 35.51         | [Link](https://pan.baidu.com/s/1PrZ0PPoMFy_4JTalV3_cUg) (Code: 5e62)     |
+| ADVENT                    | &#10008;   | CVPR’19             | 36.89         | 33.48         | 21.71         | [Link](https://pan.baidu.com/s/1TLcvC1kkKdAd80Tj5DIEfg) (Code: vtex)     |
+| DISE                      | &#10008;   | CVPR’19             | 41.47         | 34.63         | 22.40         | [Link](https://pan.baidu.com/s/1Ro30WEFC0NIOc_ye0Y-kCw) (Code: 4dfn)     |
+| CAG-UDA                   | &#10008;   | NeurIPS’19          | 45.44         | 35.60         | 37.04         | [Link](https://pan.baidu.com/s/15jGyInrCvRFS5901HdWMEg) (Code: tkpt)     |
+| MaxSquareLoss             | &#10008;   | ICCV’19             | 38.28         | 35.38         | 24.14         | [Link](https://pan.baidu.com/s/1TnqcrC7HNHLKdJ0nu2F36w) (Code: p334)     |
+| Classes Matter            | &#10008;   | ECCV’20             | 36.53         | 29.59         | 23.31         | [Link](https://pan.baidu.com/s/1GVtMJU1QbJeSls5gq54yGw) (Code: eth5)     |
+| ASANet                    | &#10008;   | TIP’21              | 36.15         | 30.30         | 20.95         | [Link](https://pan.baidu.com/s/16fnnhYwl_ClEEzfJuScx-A) (Code: 9enn)     |
+| RobustNet                 | &#10008;   | CVPR’21             | 38.38         | 32.90         | 25.84         | [Link](https://pan.baidu.com/s/1VDULhtLO4VLy7W0l1v-9rw) (Code: exc4)     |
+| Seg-Uncertainty           | &#10008;   | IJCV’21             | 48.17         | 38.39         | 26.39         | [Link](https://pan.baidu.com/s/10xerTzDBD2KlOriyjDux9g) (Code: hswv)     |
+| DisCoGAN (ours)           | &#10004;   | TMM’24              | 43.05         | 35.91         | 30.47         | [Link](https://pan.baidu.com/s/1i_WcN8wlZRI8T0T1FMS8IA) (Code: yf92)     |
+| ProRA (ours)              | &#10004;   | TMM’24              | 49.71         | 37.65         | 32.28         | [Link](https://pan.baidu.com/s/1FP6A6Hk3IxFBhcgNVrNUfA) (Code: neci)     |
+| DisCoGAN+ProRA (ours)     | &#10004;   | TMM’24              | 55.26         | 42.24         | 35.51         | [Link](https://pan.baidu.com/s/1PrZ0PPoMFy_4JTalV3_cUg) (Code: 5e62)     |
 
 
 
