@@ -2,7 +2,7 @@
 Official repository for the submitted paper “Federated Hallucination Translation and Source-free Regularization Adaptation in Decentralized Domain Adaptation for Foggy Scene Understanding”. Previous version of Code is [here](https://github.com/jxthyatt/DDA-CoSoAdapt). :rainbow: Final Code will be released after acceptance.
 
 ## Replicate Demo and Results
-### GTA5 to Foggy Cityscapes ( :herb::herb: TABLE I)
+### GTA5 to Foggy Cityscapes ( :herb::herb: TABLE I )
 :rocket::rocket: We provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” ( :star: here model is tested on Foggy Cityscapes dataset). Please view more details in TABLE I.
 
 
@@ -35,7 +35,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 <p align="center">
 <img src="assets/Fig9.pdf" width="700px"/></p>
 
-### SYNTHIA to Foggy Cityscapes ( :herb::herb: TABLE II)
+### SYNTHIA to Foggy Cityscapes ( :herb::herb: TABLE II )
 :rocket::rocket: We provide quantitative results and checkpoint files in demo “from [SYNTHIA](https://synthia-dataset.net/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” ( :star: here model is tested on Foggy Cityscapes dataset). Please view more details in TABLE II.
 
 
@@ -68,7 +68,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 <p align="center">
 <img src="assets/Fig10.pdf" width="700px"/></p>
 
-### GTA5 to Foggy Driving ( :herb::herb: TABLE III)
+### GTA5 to Foggy Driving ( :herb::herb: TABLE III )
 :rocket::rocket: We provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Driving](https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/)” ( :star: here model is tested on unseen Foggy Driving dataset). Please view more details in TABLE III.
 
 
