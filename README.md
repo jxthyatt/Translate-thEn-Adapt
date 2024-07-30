@@ -75,7 +75,7 @@ We provide quantitative results and checkpoint files in demo “from [GTA5](http
 | Method                    | DDA        | Pub’Year            | FC            | FD            | FZ            | Checkpoint file                                                          |
 |---------------------------|------------|---------------------|---------------|---------------|---------------|--------------------------------------------------------------------------|
 | Source only               | -          | -                   | 31.39         | 33.24         | 23.33         | [Link](https://pan.baidu.com/s/17K2VJVJkjrY-KOUwDNOjoA) (Code: ses8)     |
-| ADVENT                    | A          | CVPR’19             | 36.89         | 33.48         | 21.71         | [Link](https://pan.baidu.com/s/1TLcvC1kkKdAd80Tj5DIEfg) (Code: vtex)     |
+| ADVENT                    | &#10004;   | CVPR’19             | 36.89         | 33.48         | 21.71         | [Link](https://pan.baidu.com/s/1TLcvC1kkKdAd80Tj5DIEfg) (Code: vtex)     |
 | DISE                      | A          | CVPR’19             | 41.47         | 34.63         | 22.40         | [Link](https://pan.baidu.com/s/1Ro30WEFC0NIOc_ye0Y-kCw) (Code: 4dfn)     |
 | CAG-UDA                   | A          | NeurIPS’19          | 45.44         | 35.60         | 37.04         | [Link](https://pan.baidu.com/s/15jGyInrCvRFS5901HdWMEg) (Code: tkpt)     |
 | MaxSquareLoss             | A          | ICCV’19             | 38.28         | 35.38         | 24.14         | [Link](https://pan.baidu.com/s/1TnqcrC7HNHLKdJ0nu2F36w) (Code: p334)     |
