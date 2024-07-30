@@ -3,7 +3,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 
 ## Replicate Demo and Results
 ### GTA5 to Foggy Cityscapes (TABLE I)
-We provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” (:warning: here model is tested on Foggy Cityscapes dataset). Please view more details in TABLE I.
+We provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” ( :warning: here model is tested on Foggy Cityscapes dataset). Please view more details in TABLE I.
 
 
 | Method                       | DDA            | Pub’Year            | mIoU            | Gain                  | Checkpoint file                                                          |
@@ -31,7 +31,7 @@ We provide quantitative results and checkpoint files in demo “from [GTA5](http
 * **Note:** A and B refer to federated domain adaptation and source-free domain adaptation in the field of DDA. RIPU will stand aside from the peer comparison since it acts as active domain adaptation to use a few target labels.
 
 
-We visualize examples of foggy scene understanding in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” (here model is tested on Foggy Cityscapes dataset). Compared to federated or source-free DDA baseline, our TEA (DisCoGAN+ProRA) obtains 55.26% in mIoU to reach state-of-the-art performance for SFSU.
+We visualize examples of foggy scene understanding in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” ( :warning: here model is tested on Foggy Cityscapes dataset). Compared to federated or source-free DDA baseline, our TEA (DisCoGAN+ProRA) obtains 55.26% in mIoU to reach state-of-the-art performance for SFSU.
 <p align="center">
 <img src="assets/Fig9.pdf" width="700px"/></p>
 
@@ -69,7 +69,7 @@ We visualize examples of foggy scene understanding in demo “from [SYNTHIA](htt
 <img src="assets/Fig10.pdf" width="700px"/></p>
 
 ### GTA5 to Foggy Driving (TABLE III)
-We provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” (here model is tested on unseen Foggy Driving or Foggy Zurich dataset). Please view more details in TABLE III.
+We provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Driving](https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/)” ( :warning: here model is tested on unseen Foggy Driving dataset). Please view more details in TABLE III.
 
 
 | Method                    | DDA        | Pub’Year            | FC            | FD            | FZ            | Checkpoint file                                                          |
