@@ -74,18 +74,18 @@ We provide quantitative results and checkpoint files in demo “from [GTA5](http
 
 | Method                    | DDA        | Pub’Year            | FC            | FD            | FZ            | Checkpoint file                                                          |
 |---------------------------|------------|---------------------|---------------|---------------|---------------|--------------------------------------------------------------------------|
-| Source only               | -          | -                   | 31.39         | 33.24         | 23.33         | [Link](https://pan.baidu.com/s/17K2VJVJkjrY-KOUwDNOjoA) (Code: ses8)     |
-| ADVENT                    | &#10007;   | CVPR’19             | 36.89         | 33.48         | 21.71         | [Link](https://pan.baidu.com/s/1TLcvC1kkKdAd80Tj5DIEfg) (Code: vtex)     |
-| DISE                      | &#10007;   | CVPR’19             | 41.47         | 34.63         | 22.40         | [Link](https://pan.baidu.com/s/1Ro30WEFC0NIOc_ye0Y-kCw) (Code: 4dfn)     |
-| CAG-UDA                   | &#10007;   | NeurIPS’19          | 45.44         | 35.60         | 37.04         | [Link](https://pan.baidu.com/s/15jGyInrCvRFS5901HdWMEg) (Code: tkpt)     |
-| MaxSquareLoss             | &#10007;   | ICCV’19             | 38.28         | 35.38         | 24.14         | [Link](https://pan.baidu.com/s/1TnqcrC7HNHLKdJ0nu2F36w) (Code: p334)     |
-| Classes Matter            | &#10007;   | ECCV’20             | 36.53         | 29.59         | 23.31         | [Link](https://pan.baidu.com/s/1GVtMJU1QbJeSls5gq54yGw) (Code: eth5)     |
-| ASANet                    | &#10007;   | TIP’21              | 36.15         | 30.30         | 20.95         | [Link](https://pan.baidu.com/s/16fnnhYwl_ClEEzfJuScx-A) (Code: 9enn)     |
-| RobustNet                 | &#10007;   | CVPR’21             | 38.38         | 32.90         | 25.84         | [Link](https://pan.baidu.com/s/1VDULhtLO4VLy7W0l1v-9rw) (Code: exc4)     |
-| Seg-Uncertainty           | &#10007;   | IJCV’21             | 48.17         | 38.39         | 26.39         | [Link](https://pan.baidu.com/s/10xerTzDBD2KlOriyjDux9g) (Code: hswv)     |
-| DisCoGAN (ours)           | &#10003;   | TMM’24              | 43.05         | 35.91         | 30.47         | [Link](https://pan.baidu.com/s/1i_WcN8wlZRI8T0T1FMS8IA) (Code: yf92)     |
-| ProRA (ours)              | &#10003;   | TMM’24              | 49.71         | 37.65         | 32.28         | [Link](https://pan.baidu.com/s/1FP6A6Hk3IxFBhcgNVrNUfA) (Code: neci)     |
-| DisCoGAN+ProRA (ours)     | &#10003;   | TMM’24              | 55.26         | 42.24         | 35.51         | [Link](https://pan.baidu.com/s/1PrZ0PPoMFy_4JTalV3_cUg) (Code: 5e62)     |
+| Source only               | -          | -                   | 31.39         | 33.24         | 23.33         | [Link](https://pan.baidu.com/s/1fEMzwyZtniHnEouLHuwiUA) (Code: 566j)     |
+| ADVENT                    | &#10007;   | CVPR’19             | 36.89         | 33.48         | 21.71         | [Link](https://pan.baidu.com/s/14U8ecye-ngEzmXjmpCBs2g) (Code: 2xik)     |
+| DISE                      | &#10007;   | CVPR’19             | 41.47         | 34.63         | 22.40         | [Link](https://pan.baidu.com/s/1bbVd58voU39uasFX7SgiFQ) (Code: ixnw)     |
+| CAG-UDA                   | &#10007;   | NeurIPS’19          | 45.44         | 35.60         | 37.04         | [Link](https://pan.baidu.com/s/1dNB8IfjrbPIfP3RdJL4FFA) (Code: 8cqq)     |
+| MaxSquareLoss             | &#10007;   | ICCV’19             | 38.28         | 35.38         | 24.14         | [Link](https://pan.baidu.com/s/1t-OAsEVnWBJjTu46zvsKnQ) (Code: pviq)     |
+| Classes Matter            | &#10007;   | ECCV’20             | 36.53         | 29.59         | 23.31         | [Link](https://pan.baidu.com/s/14ZhBL8HEqplEYbqOJ-iAxQ) (Code: bmcy)     |
+| ASANet                    | &#10007;   | TIP’21              | 36.15         | 30.30         | 20.95         | [Link](https://pan.baidu.com/s/1sUoGUYvHgTIQrjqF7E738w) (Code: 29ay)     |
+| RobustNet                 | &#10007;   | CVPR’21             | 38.38         | 32.90         | 25.84         | [Link](https://pan.baidu.com/s/1bwpohufMajJg32OAd1ad4w) (Code: 7kki)     |
+| Seg-Uncertainty           | &#10007;   | IJCV’21             | 48.17         | 38.39         | 26.39         | [Link](https://pan.baidu.com/s/19Rk-eBtk-7KOWUx2Mp3AZw) (Code: df78)     |
+| DisCoGAN (ours)           | &#10003;   | TMM’24              | 43.05         | 35.91         | 30.47         | [Link](https://pan.baidu.com/s/1BLAhZkDKzk0r2crS6BvDoQ) (Code: 4ng5)     |
+| ProRA (ours)              | &#10003;   | TMM’24              | 49.71         | 37.65         | 32.28         | [Link](https://pan.baidu.com/s/1n2xCu49kXcVPmTgrlzptBg) (Code: iqgc)     |
+| DisCoGAN+ProRA (ours)     | &#10003;   | TMM’24              | 55.26         | 42.24         | 35.51         | [Link](https://pan.baidu.com/s/1tI3rlI0969DwfNwFYZUFcQ) (Code: cswk)     |
 
 
 
