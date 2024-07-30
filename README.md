@@ -3,7 +3,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 
 ## Replicate Demo and Results
 ### GTA5 to Foggy Cityscapes (TABLE I)
-We provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” (here model is tested on Foggy Cityscapes dataset). Please view more details in TABLE I.
+We provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” (:warning: here model is tested on Foggy Cityscapes dataset). Please view more details in TABLE I.
 
 
 | Method                       | DDA            | Pub’Year            | mIoU            | Gain                  | Checkpoint file                                                          |
