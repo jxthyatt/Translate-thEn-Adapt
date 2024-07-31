@@ -35,6 +35,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 <p align="center">
 <img src="assets/Fig9.pdf" width="700px"/></p>
 
+
 ### SYNTHIA to Foggy Cityscapes ( :herb::herb: TABLE II)
 :rocket::rocket: We provide quantitative results and checkpoint files in demo “from [SYNTHIA](https://synthia-dataset.net/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” ( :star: here model is tested on Foggy Cityscapes dataset). Please view more details in TABLE II.
 
@@ -68,6 +69,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 <p align="center">
 <img src="assets/Fig10.pdf" width="700px"/></p>
 
+
 ### GTA5 to Foggy Driving ( :herb::herb: TABLE III)
 :rocket::rocket: We provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Driving](https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/)” ( :star: here model is tested on unseen datasets such as Foggy Driving and Foggy Zurich). Please view more details in TABLE III.
 
@@ -89,6 +91,11 @@ Official repository for the submitted paper “Federated Hallucination Translati
 
 
 :hotsprings: **Note:** &#10007; and &#10003; refer to conventional unsupervised domain adaptation (UDA) and privacy-preserving decentralized domain adaptation (DDA). Datasets include Foggy Cityscapes (FC), Foggy Driving (FD) and Foggy Zurich (FZ).
+
+
+:airplane::airplane: We visualize examples of foggy scene understanding in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Driving](https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/)” ( :star: here model is tested on unseen Foggy Driving dataset). Compared to traditional UDA and DDA baselines, our TEA (DisCoGAN+ProRA) acquires 42.24% in mIoU to enable out-of-domain generalization for SFSU.
+<p align="center">
+<img src="assets/Fig11.pdf" width="700px"/></p>
 
 
 ### SYNTHIA to Foggy Driving ( :herb::herb: TABLE IV)
@@ -114,6 +121,9 @@ Official repository for the submitted paper “Federated Hallucination Translati
 :hotsprings: **Note:** &#10007; and &#10003; refer to conventional unsupervised domain adaptation (UDA) and privacy-preserving decentralized domain adaptation (DDA). Datasets include Foggy Cityscapes (FC), Foggy Driving (FD) and Foggy Zurich (FZ).
 
 
+:airplane::airplane: We visualize examples of foggy scene understanding in demo “from [SYNTHIA](https://synthia-dataset.net/) to [Foggy Driving](https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/)” ( :star: here model is tested on unseen Foggy Driving dataset). Compared to traditional UDA and DDA baselines, our TEA (DisCoGAN+ProRA) acquires 42.89% in mIoU to enable out-of-domain generalization for SFSU.
+<p align="center">
+<img src="assets/Fig12.pdf" width="700px"/></p>
 
 
 
