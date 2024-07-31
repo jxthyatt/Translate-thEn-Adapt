@@ -91,7 +91,27 @@ Official repository for the submitted paper “Federated Hallucination Translati
 :hotsprings: **Note:** &#10007; and &#10003; refer to conventional unsupervised domain adaptation (UDA) and privacy-preserving decentralized domain adaptation (DDA). Datasets include Foggy Cityscapes (FC), Foggy Driving (FD) and Foggy Zurich (FZ).
 
 
+### SYNTHIA to Foggy Driving ( :herb::herb: TABLE IV)
+:rocket::rocket: We provide quantitative results and checkpoint files in demo “from [SYNTHIA](https://synthia-dataset.net/) to [Foggy Driving](https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/)” ( :star: here model is tested on unseen datasets such as Foggy Driving and Foggy Zurich). Please view more details in TABLE IV.
 
+
+| Method                    | DDA        | Pub’Year            | FC            | FD            | FZ            | Checkpoint file                                                          |
+|---------------------------|------------|---------------------|---------------|---------------|---------------|--------------------------------------------------------------------------|
+| Source only               | -          | -                   | 27.15         | 30.25         | 13.65         | [Link](https://pan.baidu.com/s/1R0pwqSI3aHoBlTVB9RwsUg) (Code: bq4c)     |
+| ADVENT                    | &#10007;   | CVPR’19             | 32.91         | 31.98         | 15.69         | [Link](https://pan.baidu.com/s/1oJ2vBBHMuNTXN2l9cnfCfw) (Code: xp4g)     |
+| DISE                      | &#10007;   | CVPR’19             | 39.28         | 33.07         | 18.27         | [Link](https://pan.baidu.com/s/1dNBUF-uVDMuWRsAnm0J3uw) (Code: 2sup)     |
+| CAG-UDA                   | &#10007;   | NeurIPS’19          | 42.31         | 35.08         | 24.86         | [Link](https://pan.baidu.com/s/1joz8w9Msnm53xwJ6OWDlhQ) (Code: sfvz)     |
+| MaxSquareLoss             | &#10007;   | ICCV’19             | 40.24         | 37.07         | 23.19         | [Link](https://pan.baidu.com/s/1gbsLo9FjRvN2LZtXXEntUw) (Code: p27s)     |
+| Classes Matter            | &#10007;   | ECCV’20             | 44.61         | 41.26         | 25.39         | [Link](https://pan.baidu.com/s/1oPLhwlY9qvc-zmib0bdFAg) (Code: 5ji6)     |
+| ASANet                    | &#10007;   | TIP’21              | 35.80         | 29.69         | 15.45         | [Link](https://pan.baidu.com/s/1YO3u0rj8h65pxar77q9TGQ) (Code: chcp)     |
+| RobustNet                 | &#10007;   | CVPR’21             | 36.11         | 30.27         | 16.08         | [Link](https://pan.baidu.com/s/124mBiUn2zDPWyahWrvp5ew) (Code: vp6t)     |
+| Seg-Uncertainty           | &#10007;   | IJCV’21             | 44.94         | 42.48         | 25.99         | [Link](https://pan.baidu.com/s/15uDP5zf1fANmKaK-WZ4mzg) (Code: 7w63)     |
+| DisCoGAN (ours)           | &#10003;   | TMM’24              | 39.50         | 24.52         | 20.52         | [Link](https://pan.baidu.com/s/1mqZ1A1eGDK3bpwK8woPZUg) (Code: vvmj)     |
+| ProRA (ours)              | &#10003;   | TMM’24              | 45.76         | 39.29         | 29.58         | [Link](https://pan.baidu.com/s/1OsKdMaGSphkLIob8FXaijw) (Code: 7gcf)     |
+| DisCoGAN+ProRA (ours)     | &#10003;   | TMM’24              | 51.82         | 42.89         | 33.26         | [Link](https://pan.baidu.com/s/1H2JKVgltDbWJgadvl8cE-A) (Code: kkwf)     |
+
+
+:hotsprings: **Note:** &#10007; and &#10003; refer to conventional unsupervised domain adaptation (UDA) and privacy-preserving decentralized domain adaptation (DDA). Datasets include Foggy Cityscapes (FC), Foggy Driving (FD) and Foggy Zurich (FZ).
 
 
 
