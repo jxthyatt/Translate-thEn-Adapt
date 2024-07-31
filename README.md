@@ -126,9 +126,24 @@ Official repository for the submitted paper “Federated Hallucination Translati
 <img src="assets/Fig12.pdf" width="700px"/></p>
 
 
+### GTA5 to Foggy Zurich ( :herb::herb: TABLE V)
+:rocket::rocket: We provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Driving](https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/)” ( :star: here model is tested on unseen datasets such as Foggy Driving and Foggy Zurich). Please view more details in TABLE V.
 
 
+| Method                    | Pub’Year        | Src/Mid/Tgt         | V $\rightarrow$ R    | FD            | FZ            | Checkpoint file                                                          |
+|---------------------------|-----------------|---------------------|----------------------|---------------|---------------|--------------------------------------------------------------------------|
+| Source only               | -               | -                   |                      | 33.24         | 23.33         | [Link](https://pan.baidu.com/s/1fEMzwyZtniHnEouLHuwiUA) (Code: 566j)     |
+| DisCoGAN (ours)           | TMM’24          | GTA/CZ/FZ           | &#10003;             | 35.91         | 30.47         | [Link](https://pan.baidu.com/s/1BLAhZkDKzk0r2crS6BvDoQ) (Code: 4ng5)     |
+| ProRA (ours)              | TMM’24          | GTA/CZ/FZ           |                      | 37.65         | 32.28         | [Link](https://pan.baidu.com/s/1n2xCu49kXcVPmTgrlzptBg) (Code: iqgc)     |
+| DisCoGAN+ProRA (ours)     | TMM’24          | GTA/CZ/FZ           | &#10003;             | 42.24         | 35.51         | [Link](https://pan.baidu.com/s/1tI3rlI0969DwfNwFYZUFcQ) (Code: cswk)     |
 
+
+:hotsprings: **Note:** &#10007; and &#10003; refer to conventional unsupervised domain adaptation (UDA) and privacy-preserving decentralized domain adaptation (DDA). Datasets include Foggy Cityscapes (FC), Foggy Driving (FD) and Foggy Zurich (FZ).
+
+
+:airplane::airplane: We visualize examples of foggy scene understanding in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Driving](https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/)” ( :star: here model is tested on unseen Foggy Driving dataset). Compared to traditional UDA and DDA baselines, our TEA (DisCoGAN+ProRA) acquires 42.24% in mIoU to enable out-of-domain generalization for SFSU.
+<p align="center">
+<img src="assets/Fig11.pdf" width="700px"/></p>
 
 
 
