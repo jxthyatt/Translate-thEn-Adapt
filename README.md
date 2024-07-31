@@ -141,9 +141,10 @@ Official repository for the submitted paper “Federated Hallucination Translati
 :hotsprings: **Note:** Src/Mid/Tgt refer to source domain, middle domain and target domain. V :arrow_right: R and C :arrow_right: F refer to virtual-to-real and clear-to-foggy. Datasets include Clear Zurich (CZ), Foggy Zurich (FZ), GTA5 (GTA) and SYNTHIA (SYN).
 
 
-:airplane::airplane: We visualize examples of foggy scene understanding in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Driving](https://people.ee.ethz.ch/~csakarid/SFSU_synthetic/)” ( :star: here model is tested on unseen Foggy Driving dataset). Compared to traditional UDA and DDA baselines, our TEA (DisCoGAN+ProRA) acquires 42.24% in mIoU to enable out-of-domain generalization for SFSU.
+:airplane::airplane: We visualize examples of foggy scene understanding in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Zurich](https://people.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/)” ( :star: here model is tested on Foggy Zurich dataset). DisCoGAN and ProRA refer to only 1st module and only 2nd module. Ultimately, DisCoGAN+ProRA gains a clear margin of 25.85% in mIoU to act as best relative value.
 <p align="center">
-<img src="assets/Fig11.pdf" width="700px"/></p>
+<img src="assets/Fig13.pdf" width="700px"/></p>
+
 
 
 
