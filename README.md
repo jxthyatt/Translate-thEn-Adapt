@@ -130,12 +130,12 @@ Official repository for the submitted paper “Federated Hallucination Translati
 :rocket::rocket: We provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Zurich](https://people.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/)” ( :star: here model is tested on Foggy Zurich dataset). Please view more details in TABLE V.
 
 
-| Method                    | Pub’Year        | Src/Mid/Tgt         | V :arrow_right: R    | C :arrow_right: F    | mIoU          | gain          | Checkpoint file                                                          |
-|---------------------------|-----------------|---------------------|----------------------|----------------------|---------------|---------------|--------------------------------------------------------------------------|
-| Source only               | -               | -                   |                      |                      | 20.4          | -             | [Link](https://pan.baidu.com/s/1qp3rz1ojH_f5iUAInSm_7w) (Code: dhrp)     |
-| DisCoGAN (ours)           | TMM’24          | GTA/CZ/FZ           | &#10003;             |                      | 35.1          | 14.7          | [Link](https://pan.baidu.com/s/1onYBbSPQiefX_HUSX030gw) (Code: frtn)     |
-| ProRA (ours)              | TMM’24          | GTA/CZ/FZ           |                      | &#10003;             | 42.3          | 21.9          | [Link](https://pan.baidu.com/s/1lV-MMkMssR6NdBaMrEjAnA) (Code: vrwg)     |
-| DisCoGAN+ProRA (ours)     | TMM’24          | GTA/CZ/FZ           | &#10003;             | &#10003;             | 46.2          | 25.8          | [Link](https://pan.baidu.com/s/1A4kNRNk7EsXc33O10U2sJg) (Code: cma7)     |
+| Method                    | Src/Mid/Tgt       | V :arrow_right: R    | C :arrow_right: F    | mIoU          | gain          | Checkpoint file                                                          |
+|---------------------------|-------------------|----------------------|----------------------|---------------|---------------|--------------------------------------------------------------------------|
+| Source only               | -                 |                      |                      | 20.4          | -             | [Link](https://pan.baidu.com/s/1qp3rz1ojH_f5iUAInSm_7w) (Code: dhrp)     |
+| DisCoGAN (ours)           | GTA/CZ/FZ         | &#10003;             |                      | 35.1          | 14.7          | [Link](https://pan.baidu.com/s/1onYBbSPQiefX_HUSX030gw) (Code: frtn)     |
+| ProRA (ours)              | GTA/CZ/FZ         |                      | &#10003;             | 42.3          | 21.9          | [Link](https://pan.baidu.com/s/1lV-MMkMssR6NdBaMrEjAnA) (Code: vrwg)     |
+| DisCoGAN+ProRA (ours)     | GTA/CZ/FZ         | &#10003;             | &#10003;             | 46.2          | 25.8          | [Link](https://pan.baidu.com/s/1A4kNRNk7EsXc33O10U2sJg) (Code: cma7)     |
 
 
 :hotsprings: **Note:** &#10007; and &#10003; refer to conventional unsupervised domain adaptation (UDA) and privacy-preserving decentralized domain adaptation (DDA). Datasets include Foggy Cityscapes (FC), Foggy Driving (FD) and Foggy Zurich (FZ).
