@@ -146,6 +146,24 @@ Official repository for the submitted paper “Federated Hallucination Translati
 <img src="assets/Fig13.pdf" width="700px"/></p>
 
 
+### SYNTHIA to Foggy Zurich ( :herb::herb: TABLE V)
+:rocket::rocket: We provide quantitative results and checkpoint files in demo “from [SYNTHIA](https://synthia-dataset.net/) to [Foggy Zurich](https://people.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/)” ( :star: here model is tested on Foggy Zurich dataset). Please view more details in TABLE V.
+
+
+| Method                    | Src/Mid/Tgt       | V :arrow_right: R    | C :arrow_right: F    | mIoU          | gain          | Checkpoint file                                                          |
+|---------------------------|-------------------|----------------------|----------------------|---------------|---------------|--------------------------------------------------------------------------|
+| Source only               | -                 |                      |                      | 20.4          | -             | [Link](https://pan.baidu.com/s/1qp3rz1ojH_f5iUAInSm_7w) (Code: dhrp)     |
+| DisCoGAN (ours)           | GTA/CZ/FZ         | &#10003;             |                      | 35.1          | 14.7          | [Link](https://pan.baidu.com/s/1onYBbSPQiefX_HUSX030gw) (Code: frtn)     |
+| ProRA (ours)              | GTA/CZ/FZ         |                      | &#10003;             | 42.3          | 21.9          | [Link](https://pan.baidu.com/s/1lV-MMkMssR6NdBaMrEjAnA) (Code: vrwg)     |
+| DisCoGAN+ProRA (ours)     | GTA/CZ/FZ         | &#10003;             | &#10003;             | 46.2          | 25.8          | [Link](https://pan.baidu.com/s/1A4kNRNk7EsXc33O10U2sJg) (Code: cma7)     |
+
+
+:hotsprings: **Note:** Src/Mid/Tgt refer to source domain, middle domain and target domain. V :arrow_right: R and C :arrow_right: F refer to virtual-to-real and clear-to-foggy. Datasets include Clear Zurich (CZ), Foggy Zurich (FZ), GTA5 (GTA) and SYNTHIA (SYN).
+
+
+:airplane::airplane: We visualize examples of foggy scene understanding in demo “from [SYNTHIA](https://synthia-dataset.net/) to [Foggy Zurich](https://people.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/)” ( :star: here model is tested on Foggy Zurich dataset). DisCoGAN and ProRA refer to only 1st module and only 2nd module. Ultimately, DisCoGAN+ProRA gains a clear margin of 24.03% in mIoU to act as best relative value.
+<p align="center">
+<img src="assets/Fig14.pdf" width="700px"/></p>
 
 
 
