@@ -152,10 +152,10 @@ Official repository for the submitted paper “Federated Hallucination Translati
 
 | Method                    | Src/Mid/Tgt       | V :arrow_right: R    | C :arrow_right: F    | mIoU          | gain          | Checkpoint file                                                          |
 |---------------------------|-------------------|----------------------|----------------------|---------------|---------------|--------------------------------------------------------------------------|
-| Source only               | -                 |                      |                      | 12.4          | -             | [Link](https://pan.baidu.com/s/1qp3rz1ojH_f5iUAInSm_7w) (Code: dhrp)     |
-| DisCoGAN (ours)           | SYN/CZ/FZ         | &#10003;             |                      | 26.2          | 13.8          | [Link](https://pan.baidu.com/s/1onYBbSPQiefX_HUSX030gw) (Code: frtn)     |
-| ProRA (ours)              | SYN/CZ/FZ         |                      | &#10003;             | 31.8          | 19.4          | [Link](https://pan.baidu.com/s/1lV-MMkMssR6NdBaMrEjAnA) (Code: vrwg)     |
-| DisCoGAN+ProRA (ours)     | SYN/CZ/FZ         | &#10003;             | &#10003;             | 36.4          | 24.0          | [Link](https://pan.baidu.com/s/1A4kNRNk7EsXc33O10U2sJg) (Code: cma7)     |
+| Source only               | -                 |                      |                      | 12.4          | -             | [Link](https://pan.baidu.com/s/1YVa8uBLQHuGgj0UOXdbnCQ) (Code: 8gaa)     |
+| DisCoGAN (ours)           | SYN/CZ/FZ         | &#10003;             |                      | 26.2          | 13.8          | [Link](https://pan.baidu.com/s/1iNuRGERGooVkAnTh6SFTXQ) (Code: wtcy)     |
+| ProRA (ours)              | SYN/CZ/FZ         |                      | &#10003;             | 31.8          | 19.4          | [Link](https://pan.baidu.com/s/15I5yG4O2Y_dlXlwJFMsFkQ) (Code: 8v2a)     |
+| DisCoGAN+ProRA (ours)     | SYN/CZ/FZ         | &#10003;             | &#10003;             | 36.4          | 24.0          | [Link](https://pan.baidu.com/s/1ewUtxuUtJG172on8upFZNg) (Code: rhiq)     |
 
 
 :hotsprings: **Note:** Src/Mid/Tgt refer to source domain, middle domain and target domain. V :arrow_right: R and C :arrow_right: F refer to virtual-to-real and clear-to-foggy. Datasets include Clear Zurich (CZ), Foggy Zurich (FZ), GTA5 (GTA) and SYNTHIA (SYN).
