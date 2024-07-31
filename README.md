@@ -147,7 +147,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 
 
 ### SYNTHIA to Foggy Zurich ( :herb::herb: TABLE V)
-:rocket::rocket: We provide quantitative results and checkpoint files in demo “from [SYNTHIA](https://synthia-dataset.net/) to [Foggy Zurich](https://people.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/)” ( :star: here model is tested on Foggy Zurich dataset). Please view more details in TABLE V.
+:rocket::rocket: We provide quantitative results and checkpoint files in demo “from [SYNTHIA](https://synthia-dataset.net/) to [Foggy Zurich](https://people.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/)” ( :star: here model is tested on seen Foggy Zurich dataset). Please view more details in TABLE V.
 
 
 | Method                    | Src/Mid/Tgt       | V :arrow_right: R    | C :arrow_right: F    | mIoU          | gain          | Checkpoint file                                                          |
@@ -156,6 +156,17 @@ Official repository for the submitted paper “Federated Hallucination Translati
 | DisCoGAN (ours)           | SYN/CZ/FZ         | &#10003;             |                      | 26.2          | 13.8          | [Link](https://pan.baidu.com/s/1iNuRGERGooVkAnTh6SFTXQ) (Code: wtcy)     |
 | ProRA (ours)              | SYN/CZ/FZ         |                      | &#10003;             | 31.8          | 19.4          | [Link](https://pan.baidu.com/s/15I5yG4O2Y_dlXlwJFMsFkQ) (Code: 8v2a)     |
 | DisCoGAN+ProRA (ours)     | SYN/CZ/FZ         | &#10003;             | &#10003;             | 36.4          | 24.0          | [Link](https://pan.baidu.com/s/1ewUtxuUtJG172on8upFZNg) (Code: rhiq)     |
+
+
+:rocket::rocket: We also provide quantitative results and checkpoint files in demo “from [SYNTHIA](https://synthia-dataset.net/) to [Foggy Zurich](https://people.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/)” ( :star: here model is tested on unseen Foggy Driving dataset). They are not published in TABLE V.
+
+
+| Method                    | Src/Mid/Tgt       | V :arrow_right: R    | C :arrow_right: F    | mIoU          | gain          | Checkpoint file                                                          |
+|---------------------------|-------------------|----------------------|----------------------|---------------|---------------|--------------------------------------------------------------------------|
+| Source only               | -                 |                      |                      | 21.2          | -             | [Link](https://pan.baidu.com/s/1fPqNAfqQSAo8y2hJ5eNN8w) (Code: yebt)     |
+| DisCoGAN (ours)           | SYN/CZ/FZ         | &#10003;             |                      | 33.5          | 12.3          | [Link](https://pan.baidu.com/s/17ddO2dz7UC5gdS1GccvuWA) (Code: qquu)     |
+| ProRA (ours)              | SYN/CZ/FZ         |                      | &#10003;             | 36.8          | 15.6          | [Link](https://pan.baidu.com/s/1usiLuR1tRumYZ23OQ7EALQ) (Code: e7m9)     |
+| DisCoGAN+ProRA (ours)     | SYN/CZ/FZ         | &#10003;             | &#10003;             | 39.7          | 18.5          | [Link](https://pan.baidu.com/s/1HKQxRU644bgggHy51ozNTg) (Code: hxxg)     |
 
 
 :hotsprings: **Note:** Src/Mid/Tgt refer to source domain, middle domain and target domain. V :arrow_right: R and C :arrow_right: F refer to virtual-to-real and clear-to-foggy. Datasets include Clear Zurich (CZ), Foggy Zurich (FZ), GTA5 (GTA) and SYNTHIA (SYN).
