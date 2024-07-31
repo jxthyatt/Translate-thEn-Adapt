@@ -144,12 +144,12 @@ Official repository for the submitted paper “Federated Hallucination Translati
 | Method                    | Src/Mid/Tgt       | V :arrow_right: R    | C :arrow_right: F    | mIoU          | gain          | Checkpoint file                                                          |
 |---------------------------|-------------------|----------------------|----------------------|---------------|---------------|--------------------------------------------------------------------------|
 | Source only               | -                 |                      |                      | 28.7          | -             | [Link](https://pan.baidu.com/s/1JY4JsvHwffUxBMqgjQDGfQ) (Code: nknr)     |
-| DisCoGAN (ours)           | GTA/CZ/FZ         | &#10003;             |                      | 30.4          | 1.7           | [Link](https://pan.baidu.com/s/1j_HxhNZqQwypOEx0JT4UHQ) (Code: u4bc)     |
-| ProRA (ours)              | GTA/CZ/FZ         |                      | &#10003;             | 35.2          | 6.5           | [Link](https://pan.baidu.com/s/1OApSmh6bycx6GVjiPRRV3A) (Code: tbnt)     |
-| DisCoGAN+ProRA (ours)     | GTA/CZ/FZ         | &#10003;             | &#10003;             | 37.7          | 9.0           | [Link](https://pan.baidu.com/s/14a2Gjc_JWmjo66-DR7gU6w) (Code: r98i)     |
+| DisCoGAN (ours)           | GTA/CZ/FD         | &#10003;             |                      | 30.4          | 1.7           | [Link](https://pan.baidu.com/s/1j_HxhNZqQwypOEx0JT4UHQ) (Code: u4bc)     |
+| ProRA (ours)              | GTA/CZ/FD         |                      | &#10003;             | 35.2          | 6.5           | [Link](https://pan.baidu.com/s/1OApSmh6bycx6GVjiPRRV3A) (Code: tbnt)     |
+| DisCoGAN+ProRA (ours)     | GTA/CZ/FD         | &#10003;             | &#10003;             | 37.7          | 9.0           | [Link](https://pan.baidu.com/s/14a2Gjc_JWmjo66-DR7gU6w) (Code: r98i)     |
 
 
-:hotsprings: **Note:** Src/Mid/Tgt refer to source domain, middle domain and target domain. V :arrow_right: R and C :arrow_right: F refer to virtual-to-real and clear-to-foggy. Datasets include Clear Zurich (CZ), Foggy Zurich (FZ), GTA5 (GTA) and SYNTHIA (SYN).
+:hotsprings: **Note:** Src/Mid/Tgt refer to source domain, middle domain and target domain. V :arrow_right: R and C :arrow_right: F refer to virtual-to-real and clear-to-foggy. Datasets include Clear Zurich (CZ), Foggy Zurich (FZ), Foggy Driving (FD), GTA5 (GTA) and SYNTHIA (SYN).
 
 
 :airplane::airplane: We visualize examples of foggy scene understanding in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Zurich](https://people.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/)” ( :star: here model is tested on Foggy Zurich dataset). DisCoGAN and ProRA refer to only 1st module and only 2nd module. Ultimately, DisCoGAN+ProRA gains a clear margin of 25.85% in mIoU to act as best relative value.
@@ -175,12 +175,12 @@ Official repository for the submitted paper “Federated Hallucination Translati
 | Method                    | Src/Mid/Tgt       | V :arrow_right: R    | C :arrow_right: F    | mIoU          | gain          | Checkpoint file                                                          |
 |---------------------------|-------------------|----------------------|----------------------|---------------|---------------|--------------------------------------------------------------------------|
 | Source only               | -                 |                      |                      | 21.2          | -             | [Link](https://pan.baidu.com/s/1fPqNAfqQSAo8y2hJ5eNN8w) (Code: yebt)     |
-| DisCoGAN (ours)           | SYN/CZ/FZ         | &#10003;             |                      | 33.5          | 12.3          | [Link](https://pan.baidu.com/s/17ddO2dz7UC5gdS1GccvuWA) (Code: qquu)     |
-| ProRA (ours)              | SYN/CZ/FZ         |                      | &#10003;             | 36.8          | 15.6          | [Link](https://pan.baidu.com/s/1usiLuR1tRumYZ23OQ7EALQ) (Code: e7m9)     |
-| DisCoGAN+ProRA (ours)     | SYN/CZ/FZ         | &#10003;             | &#10003;             | 39.7          | 18.5          | [Link](https://pan.baidu.com/s/1HKQxRU644bgggHy51ozNTg) (Code: hxxg)     |
+| DisCoGAN (ours)           | SYN/CZ/FD         | &#10003;             |                      | 33.5          | 12.3          | [Link](https://pan.baidu.com/s/17ddO2dz7UC5gdS1GccvuWA) (Code: qquu)     |
+| ProRA (ours)              | SYN/CZ/FD         |                      | &#10003;             | 36.8          | 15.6          | [Link](https://pan.baidu.com/s/1usiLuR1tRumYZ23OQ7EALQ) (Code: e7m9)     |
+| DisCoGAN+ProRA (ours)     | SYN/CZ/FD         | &#10003;             | &#10003;             | 39.7          | 18.5          | [Link](https://pan.baidu.com/s/1HKQxRU644bgggHy51ozNTg) (Code: hxxg)     |
 
 
-:hotsprings: **Note:** Src/Mid/Tgt refer to source domain, middle domain and target domain. V :arrow_right: R and C :arrow_right: F refer to virtual-to-real and clear-to-foggy. Datasets include Clear Zurich (CZ), Foggy Zurich (FZ), GTA5 (GTA) and SYNTHIA (SYN).
+:hotsprings: **Note:** Src/Mid/Tgt refer to source domain, middle domain and target domain. V :arrow_right: R and C :arrow_right: F refer to virtual-to-real and clear-to-foggy. Datasets include Clear Zurich (CZ), Foggy Zurich (FZ), Foggy Driving (FD), GTA5 (GTA) and SYNTHIA (SYN).
 
 
 :airplane::airplane: We visualize examples of foggy scene understanding in demo “from [SYNTHIA](https://synthia-dataset.net/) to [Foggy Zurich](https://people.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/)” ( :star: here model is tested on Foggy Zurich dataset). DisCoGAN and ProRA refer to only 1st module and only 2nd module. Ultimately, DisCoGAN+ProRA gains a clear margin of 24.03% in mIoU to act as best relative value.
