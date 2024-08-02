@@ -203,7 +203,19 @@ Official repository for the submitted paper “Federated Hallucination Translati
 | DisCoGAN (ours)   | 21.49                | 0.839                | 0.844                | 0.105                  | 0.125                  | [Link](https://pan.baidu.com/s/16L8sWWynOZof6XCGaaRMxg) (Code: 6rkn)     |
 
 
+### Foggy Cityscapes to Cityscapes ( :herb::herb: TABLE VII)
 
+
+| Method            | PSNR :arrow_up:      | SSIM :arrow_up:      | VIF :arrow_up:       | GMSD :arrow_down:      | LPIPS :arrow_down:     | Checkpoint file                                                          |
+|-------------------|----------------------|----------------------|----------------------|------------------------|------------------------|--------------------------------------------------------------------------|
+| CycleGAN          | 22.10                | 0.810                | 0.797                | 0.119                  | 0.125                  | [Link](https://pan.baidu.com/s/1KdhSOv0RdHHfJkeCyLp4Ww) (Code: m1wg)     |
+| UNIT              | 18.89                | 0.487                | 0.797                | 0.201                  | 0.165                  | [Link](https://pan.baidu.com/s/11AZhEtt-icsT2wzrxQnXyw) (Code: q8rv)     |
+| MUNIT             | 20.05                | 0.683                | 0.792                | 0.157                  | 0.184                  | [Link](https://pan.baidu.com/s/1j6Eb048KxChkEm-MCDRDkw) (Code: d74u)     |
+| DRIT++            | 19.36                | 0.784                | 0.783                | 0.147                  | 0.132                  | [Link](https://pan.baidu.com/s/18hBLKJxd6z6ckLnbDp1fOg) (Code: sv2s)     |
+| StarGANv2         | 20.53                | 0.727                | 0.783                | 0.133                  | 0.166                  | [Link](https://pan.baidu.com/s/14A9un-q2UHxH2U8CkFixKA) (Code: futn)     |
+| CUT               | 21.90                | 0.788                | 0.795                | 0.120                  | 0.128                  | [Link](https://pan.baidu.com/s/1HM-51HAdQxC2j9ZS_ZtnCw) (Code: q2ty)     |
+| NEGCUT            | 20.75                | 0.700                | 0.794                | 0.139                  | 0.156                  | [Link](https://pan.baidu.com/s/1_ji2dpt_jZOwrtwZNWpCrw) (Code: enu6)     |
+| DisCoGAN (ours)   | 22.94                | 0.804                | 0.797                | 0.115                  | 0.121                  | [Link](https://pan.baidu.com/s/16L8sWWynOZof6XCGaaRMxg) (Code: 6rkn)     |
 
 
 
