@@ -226,7 +226,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 :hotsprings: **Note:** Evaluation metrics include learned perceptual image patch similarity (LPIPS), visual information fidelity (VIF), peak signal noise rate (PSNR), structural similarity index measure (SSIM), and gradient magnitude similarity deviation (GMSD).
 
 
-:airplane::airplane: We further visualize examples of unpaired image translation in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) or [SYNTHIA](https://synthia-dataset.net/) to [Cityscapes](https://www.cityscapes-dataset.com/)” where DisCoGAN (ours) performs best to transfer style while preserving content, such as traffic light and road in left graph as well as motorcycle and bike in right graph.
+:airplane::airplane: We further visualize examples of unpaired image translation in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) or [SYNTHIA](https://synthia-dataset.net/) to [Cityscapes](https://www.cityscapes-dataset.com/)” where DisCoGAN (ours) performs best to transfer style while preserving content, such as traffic light and road in left sub-graph as well as motorcycle and bike in right sub-graph.
 <p align="center">
 <img src="assets/Fig4.pdf" width="700px"/></p>
 
