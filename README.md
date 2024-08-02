@@ -191,16 +191,16 @@ Official repository for the submitted paper “Federated Hallucination Translati
 ### Cityscapes to Foggy Cityscapes ( :herb::herb: TABLE VII)
 
 
-| Method            | Pub’Year      | PSNR      | SSIM      | VIF       | GMSD      | LPIPS     | Checkpoint file                                                          |
-|-------------------|---------------|-----------|-----------|-----------|-----------|-----------|--------------------------------------------------------------------------|
-| CycleGAN          | ICCV’17       | 19.81     | 0.837     | 0.840     | 0.125     | 0.126     | [Link]() (Code: bq4c)     |
-| UNIT              | NeurIPS’17    | 15.91     | 0.541     | 0.797     | 0.185     | 0.165     | [Link]() (Code: xp4g)     |
-| MUNIT             | ECCV’18       | 16.02     | 0.689     | 0.793     | 0.158     | 0.222     | [Link]() (Code: 2sup)     |
-| DRIT++            | IJCV’20       | 18.23     | 0.803     | 0.836     | 0.140     | 0.159     | [Link]() (Code: sfvz)     |
-| StarGANv2         | CVPR’20       | 19.72     | 0.791     | 0.841     | 0.125     | 0.151     | [Link]() (Code: p27s)     |
-| CUT               | ECCV’20       | 20.20     | 0.819     | 0.852     | 0.129     | 0.145     | [Link]() (Code: chcp)     |
-| NEGCUT            | ICCV’21       | 20.00     | 0.789     | 0.844     | 0.139     | 0.157     | [Link]() (Code: vp6t)     |
-| DisCoGAN (ours)   | TMM’24        | 21.49     | 0.839     | 0.844     | 0.105     | 0.125     | [Link]() (Code: vvmj)     |
+| Method            | Pub’Year      | PSNR :arrow_up:      | SSIM :arrow_up:      | VIF :arrow_up:       | GMSD :arrow_down:      | LPIPS :arrow_down:     | Checkpoint file                                                          |
+|-------------------|---------------|----------------------|----------------------|----------------------|------------------------|------------------------|--------------------------------------------------------------------------|
+| CycleGAN          | ICCV’17       | 19.81                | 0.837                | 0.840                | 0.125                  | 0.126                  | [Link]() (Code: bq4c)     |
+| UNIT              | NeurIPS’17    | 15.91                | 0.541                | 0.797                | 0.185                  | 0.165                  | [Link]() (Code: xp4g)     |
+| MUNIT             | ECCV’18       | 16.02                | 0.689                | 0.793                | 0.158                  | 0.222                  | [Link]() (Code: 2sup)     |
+| DRIT++            | IJCV’20       | 18.23                | 0.803                | 0.836                | 0.140                  | 0.159                  | [Link]() (Code: sfvz)     |
+| StarGANv2         | CVPR’20       | 19.72                | 0.791                | 0.841                | 0.125                  | 0.151                  | [Link]() (Code: p27s)     |
+| CUT               | ECCV’20       | 20.20                | 0.819                | 0.852                | 0.129                  | 0.145                  | [Link]() (Code: chcp)     |
+| NEGCUT            | ICCV’21       | 20.00                | 0.789                | 0.844                | 0.139                  | 0.157                  | [Link]() (Code: vp6t)     |
+| DisCoGAN (ours)   | TMM’24        | 21.49                | 0.839                | 0.844                | 0.105                  | 0.125                  | [Link]() (Code: vvmj)     |
 
 
 
