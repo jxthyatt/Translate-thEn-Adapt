@@ -191,16 +191,16 @@ Official repository for the submitted paper “Federated Hallucination Translati
 ### Cityscapes to Foggy Cityscapes ( :herb::herb: TABLE VII)
 
 
-| Method            | Pub’Year      | PSNR :arrow_up:      | SSIM :arrow_up:      | VIF :arrow_up:       | GMSD :arrow_down:      | LPIPS :arrow_down:     | Checkpoint file                                                          |
-|-------------------|---------------|----------------------|----------------------|----------------------|------------------------|------------------------|--------------------------------------------------------------------------|
-| CycleGAN          | ICCV’17       | 19.81                | 0.837                | 0.840                | 0.125                  | 0.126                  | [Link](https://pan.baidu.com/s/1KdhSOv0RdHHfJkeCyLp4Ww) (Code: m1wg)     |
-| UNIT              | NeurIPS’17    | 15.91                | 0.541                | 0.797                | 0.185                  | 0.165                  | [Link](https://pan.baidu.com/s/11AZhEtt-icsT2wzrxQnXyw) (Code: q8rv)     |
-| MUNIT             | ECCV’18       | 16.02                | 0.689                | 0.793                | 0.158                  | 0.222                  | [Link](https://pan.baidu.com/s/1j6Eb048KxChkEm-MCDRDkw) (Code: d74u)     |
-| DRIT++            | IJCV’20       | 18.23                | 0.803                | 0.836                | 0.140                  | 0.159                  | [Link](https://pan.baidu.com/s/18hBLKJxd6z6ckLnbDp1fOg) (Code: sv2s)     |
-| StarGANv2         | CVPR’20       | 19.72                | 0.791                | 0.841                | 0.125                  | 0.151                  | [Link](https://pan.baidu.com/s/14A9un-q2UHxH2U8CkFixKA) (Code: futn)     |
-| CUT               | ECCV’20       | 20.20                | 0.819                | 0.852                | 0.129                  | 0.145                  | [Link](https://pan.baidu.com/s/1_bRAf-QJeahEP5WzDr5jBw) (Code: 5vhm)     |
-| NEGCUT            | ICCV’21       | 20.00                | 0.789                | 0.844                | 0.139                  | 0.157                  | [Link](https://pan.baidu.com/s/1BLkjXBjlF11I9AumFNj1XA) (Code: 5q1n)     |
-| DisCoGAN (ours)   | TMM’24        | 21.49                | 0.839                | 0.844                | 0.105                  | 0.125                  | [Link](https://pan.baidu.com/s/16L8sWWynOZof6XCGaaRMxg) (Code: 6rkn)     |
+| Method            | PSNR :arrow_up:      | SSIM :arrow_up:      | VIF :arrow_up:       | GMSD :arrow_down:      | LPIPS :arrow_down:     | Checkpoint file                                                          |
+|-------------------|----------------------|----------------------|----------------------|------------------------|------------------------|--------------------------------------------------------------------------|
+| CycleGAN          | 19.81                | 0.837                | 0.840                | 0.125                  | 0.126                  | [Link](https://pan.baidu.com/s/1KdhSOv0RdHHfJkeCyLp4Ww) (Code: m1wg)     |
+| UNIT              | 15.91                | 0.541                | 0.797                | 0.185                  | 0.165                  | [Link](https://pan.baidu.com/s/11AZhEtt-icsT2wzrxQnXyw) (Code: q8rv)     |
+| MUNIT             | 16.02                | 0.689                | 0.793                | 0.158                  | 0.222                  | [Link](https://pan.baidu.com/s/1j6Eb048KxChkEm-MCDRDkw) (Code: d74u)     |
+| DRIT++            | 18.23                | 0.803                | 0.836                | 0.140                  | 0.159                  | [Link](https://pan.baidu.com/s/18hBLKJxd6z6ckLnbDp1fOg) (Code: sv2s)     |
+| StarGANv2         | 19.72                | 0.791                | 0.841                | 0.125                  | 0.151                  | [Link](https://pan.baidu.com/s/14A9un-q2UHxH2U8CkFixKA) (Code: futn)     |
+| CUT               | 20.20                | 0.819                | 0.852                | 0.129                  | 0.145                  | [Link](https://pan.baidu.com/s/1_bRAf-QJeahEP5WzDr5jBw) (Code: 5vhm)     |
+| NEGCUT            | 20.00                | 0.789                | 0.844                | 0.139                  | 0.157                  | [Link](https://pan.baidu.com/s/1BLkjXBjlF11I9AumFNj1XA) (Code: 5q1n)     |
+| DisCoGAN (ours)   | 21.49                | 0.839                | 0.844                | 0.105                  | 0.125                  | [Link](https://pan.baidu.com/s/16L8sWWynOZof6XCGaaRMxg) (Code: 6rkn)     |
 
 
 
