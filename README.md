@@ -189,6 +189,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 
 
 ### Cityscapes to Foggy Cityscapes ( :herb::herb: TABLE VII)
+:rocket::rocket: We provide quantitative results and checkpoint files in demo of image-to-image translation “from [Cityscapes](https://www.cityscapes-dataset.com/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)”. Please view more details in TABLE VII.
 
 
 | Method            | PSNR :arrow_up:      | SSIM :arrow_up:      | VIF :arrow_up:       | GMSD :arrow_down:      | LPIPS :arrow_down:     | Checkpoint file                                                          |
@@ -204,6 +205,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 
 
 ### Foggy Cityscapes to Cityscapes ( :herb::herb: TABLE VII)
+:rocket::rocket: We provide quantitative results and checkpoint files in demo of image-to-image translation “from [Foggy Cityscapes](https://www.cityscapes-dataset.com/) to [Cityscapes](https://www.cityscapes-dataset.com/)”. Please view more details in TABLE VII.
 
 
 | Method            | PSNR :arrow_up:      | SSIM :arrow_up:      | VIF :arrow_up:       | GMSD :arrow_down:      | LPIPS :arrow_down:     | Checkpoint file                                                          |
