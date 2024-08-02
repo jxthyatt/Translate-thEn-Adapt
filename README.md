@@ -189,7 +189,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 
 
 ### Cityscapes to Foggy Cityscapes ( :herb::herb: TABLE VII)
-:rocket::rocket: We provide quantitative results and checkpoint files in demo of image-to-image translation “from [Cityscapes](https://www.cityscapes-dataset.com/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)”. Please view more details in TABLE VII.
+:rocket::rocket: We provide quantitative results and checkpoint files in demo of image-to-image translation “from [Cityscapes](https://www.cityscapes-dataset.com/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” ( :star: here higher PSNR, SSIM, VIF and lower GMSD, LPIPS refer to better performance). Please view more details in TABLE VII.
 
 
 | Method            | PSNR :arrow_up:      | SSIM :arrow_up:      | VIF :arrow_up:       | GMSD :arrow_down:      | LPIPS :arrow_down:     | Checkpoint file                                                          |
@@ -204,8 +204,11 @@ Official repository for the submitted paper “Federated Hallucination Translati
 | DisCoGAN (ours)   | 21.49                | 0.839                | 0.844                | 0.105                  | 0.125                  | [Link](https://pan.baidu.com/s/16L8sWWynOZof6XCGaaRMxg) (Code: 6rkn)     |
 
 
+:hotsprings: **Note:** Evaluation metrics include learned perceptual image patch similarity (LPIPS), visual information fidelity (VIF), peak signal noise rate (PSNR), structural similarity index measure (SSIM), and gradient magnitude similarity deviation (GMSD).
+
+
 ### Foggy Cityscapes to Cityscapes ( :herb::herb: TABLE VII)
-:rocket::rocket: We provide quantitative results and checkpoint files in demo of image-to-image translation “from [Foggy Cityscapes](https://www.cityscapes-dataset.com/) to [Cityscapes](https://www.cityscapes-dataset.com/)”. Please view more details in TABLE VII.
+:rocket::rocket: We provide quantitative results and checkpoint files in demo of image-to-image translation “from [Foggy Cityscapes](https://www.cityscapes-dataset.com/) to [Cityscapes](https://www.cityscapes-dataset.com/)” ( :star: here higher PSNR, SSIM, VIF and lower GMSD, LPIPS refer to better performance). Please view more details in TABLE VII.
 
 
 | Method            | PSNR :arrow_up:      | SSIM :arrow_up:      | VIF :arrow_up:       | GMSD :arrow_down:      | LPIPS :arrow_down:     | Checkpoint file                                                          |
@@ -220,6 +223,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 | DisCoGAN (ours)   | 22.94                | 0.804                | 0.797                | 0.115                  | 0.121                  | [Link](https://pan.baidu.com/s/16L8sWWynOZof6XCGaaRMxg) (Code: 6rkn)     |
 
 
+:hotsprings: **Note:** Evaluation metrics include learned perceptual image patch similarity (LPIPS), visual information fidelity (VIF), peak signal noise rate (PSNR), structural similarity index measure (SSIM), and gradient magnitude similarity deviation (GMSD).
 
 
 
