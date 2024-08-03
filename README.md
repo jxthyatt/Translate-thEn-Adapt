@@ -266,11 +266,12 @@ Official repository for the submitted paper “Federated Hallucination Translati
 
 
 ### Ablation Study on ProRA ( :herb::herb: TABLE VIII + TABLE IX)
+:rocket::rocket: We provide ablation results and checkpoint files on ProRA in demo of image translation “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” ( :star: here higher PSNR, SSIM, VIF and lower GMSD, LPIPS refer to better performance). Please view loss configurations (:one: - :six:) in TABLE VIII.
 
 
-| ProRA :one:    | ProRA :two:    | ProRA :three:  | ProRA :four:   | ProRA :five:   | ProRA :six:    | gain           | Checkpoint file                                                            |
+| ProRA :one:    | ProRA :two:    | ProRA :three:  | ProRA :four:   | ProRA :five:   | ProRA :six:    | mIoU gain      | Checkpoint file                                                            |
 |----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------------------------------------------------------------------|
-|                |                |                |                |                |                | -              | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+|                |                |                |                |                |                | 0.0            | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
 |                | &#10003;       |                |                |                |                | 9.2            | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
 | &#10003;       | &#10003;       |                |                |                |                | 11.7           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
 | &#10003;       | &#10003;       | &#10003;       |                |                |                | 16.9           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
@@ -281,6 +282,17 @@ Official repository for the submitted paper “Federated Hallucination Translati
 | &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       | 23.9           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
 
 
+| ProRA :one:    | ProRA :two:    | ProRA :three:  | ProRA :four:   | ProRA :five:   | ProRA :six:    | mIoU gain      | Checkpoint file                                                            |
+|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------------------------------------------------------------------|
+|                |                |                |                |                |                | 0.0            | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+|                | &#10003;       |                |                |                |                | 10.3           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+| &#10003;       | &#10003;       |                |                |                |                | 12.3           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+| &#10003;       | &#10003;       | &#10003;       |                |                |                | 15.3           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+| &#10003;       | &#10003;       |                | &#10003;       |                |                | 19.1           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+| &#10003;       | &#10003;       | &#10003;       | &#10003;       |                |                | 21.9           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+| &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       |                | 24.2           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+| &#10003;       | &#10003;       | &#10003;       | &#10003;       |                | &#10003;       | 23.9           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+| &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       | 24.6           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
 
 
 
