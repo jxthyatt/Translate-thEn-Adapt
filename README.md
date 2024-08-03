@@ -23,12 +23,12 @@ Official repository for the submitted paper “Federated Hallucination Translati
 | ProDA                        | B              | CVPR’21             | 49.2            | 17.8                  | [Link](https://pan.baidu.com/s/1e2UJqMONeqDWZTkIQsRuEw) (Code: gsrt)     |
 | SFOCDA                       | B              | TCSVT’22            | 38.7            | 7.3                   | [Link](https://pan.baidu.com/s/1Uq-UDZUkUFlhquvoJi978Q) (Code: wfye)     |
 | ProCA                        | B              | ECCV’22             | 44.8            | 13.4                  | [Link](https://pan.baidu.com/s/1jX9-SRLl0G9GpKsoHWtYAg) (Code: dh4b)     |
-| RIPU                         | B              | CVPR’22             | 66.8            | 35.4                  | [Link](https://pan.baidu.com/s/1POl7UtLrBplN-OUoV17bmw) (Code: niu9)     |
+| RIPU :asterisk:              | B              | CVPR’22             | 66.8            | 35.4                  | [Link](https://pan.baidu.com/s/1POl7UtLrBplN-OUoV17bmw) (Code: niu9)     |
 | SimT                         | B              | TPAMI’23            | 54.6            | 23.2                  | [Link](https://pan.baidu.com/s/1hcw9mOR0FVW5uVcr3hGnUQ) (Code: kq8w)     |
 | DisCoGAN+ProRA (ours)        | B              | TMM’24              | 55.3            | 23.9                  | [Link](https://pan.baidu.com/s/15B2o1f46rkMcWl_1zWkPNw) (Code: hp3h)     |
 
 
-:hotsprings: **Note:** A and B refer to federated domain adaptation and source-free domain adaptation in the field of DDA. RIPU will stand aside from the peer comparison since it acts as active domain adaptation to use a few target labels.
+:hotsprings: **Note:** A and B refer to federated domain adaptation and source-free domain adaptation in the field of DDA. RIPU :asterisk: will stand aside from the peer comparison since it acts as active domain adaptation to use a few target labels.
 
 
 :airplane::airplane: We visualize examples of foggy scene understanding in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” ( :star: here model is tested on Foggy Cityscapes dataset). Compared to federated or source-free DDA baseline, our TEA (DisCoGAN+ProRA) obtains 55.26% in mIoU to reach state-of-the-art performance for SFSU.
@@ -57,12 +57,12 @@ Official repository for the submitted paper “Federated Hallucination Translati
 | ProDA                        | B              | CVPR’21             | 44.1            | 16.9                  | [Link](https://pan.baidu.com/s/1sA0UltvMwOXLTgXMsxiRrw) (Code: 4xxj)     |
 | SFOCDA                       | B              | TCSVT’22            | 35.5            | 8.3                   | [Link](https://pan.baidu.com/s/15a_Ew5pdVin-VhNDMh-Gww) (Code: 4t7a)     |
 | ProCA                        | B              | ECCV’22             | 35.7            | 8.5                   | [Link](https://pan.baidu.com/s/1vtYfofLBfWT6FpRozzSgNg) (Code: tjaj)     |
-| RIPU                         | B              | CVPR’22             | 67.1            | 39.9                  | [Link](https://pan.baidu.com/s/1nUqCxo-RgNmDY3ls3_hKBg) (Code: w274)     |
+| RIPU :asterisk:              | B              | CVPR’22             | 67.1            | 39.9                  | [Link](https://pan.baidu.com/s/1nUqCxo-RgNmDY3ls3_hKBg) (Code: w274)     |
 | SimT                         | B              | TPAMI’23            | 40.6            | 13.4                  | [Link](https://pan.baidu.com/s/1xGZLqVaf-vc_WkEGZMDL0w) (Code: 59n5)     |
 | DisCoGAN+ProRA (ours)        | B              | TMM’24              | 51.8            | 24.6                  | [Link](https://pan.baidu.com/s/1wRYMnvXb-IwxELRgUZzr_A) (Code: 4i2u)     |
 
 
-:hotsprings: **Note:** A and B refer to federated domain adaptation and source-free domain adaptation in the field of DDA. RIPU will stand aside from the peer comparison since it acts as active domain adaptation to use a few target labels.
+:hotsprings: **Note:** A and B refer to federated domain adaptation and source-free domain adaptation in the field of DDA. RIPU :asterisk: will stand aside from the peer comparison since it acts as active domain adaptation to use a few target labels.
 
 
 :airplane::airplane: We visualize examples of foggy scene understanding in demo “from [SYNTHIA](https://synthia-dataset.net/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” ( :star: here model is tested on Foggy Cityscapes dataset). Compared to federated or source-free DDA baseline, our TEA (DisCoGAN+ProRA) obtains 51.82% in mIoU to reach state-of-the-art performance for SFSU.
@@ -247,7 +247,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 | DisCoGAN :eight:  | 21.49                | 0.839                | 0.844                | 0.105                  | 0.125                  | [Link](https://pan.baidu.com/s/1tvvoXuR239XV_gotTBhOCQ) (Code: xjs4)     |
 
 
-:rocket::rocket: We also provide ablation results and checkpoint files on DisCoGAN in demo of image translation “from [Foggy Cityscapes](https://www.cityscapes-dataset.com/) to [Cityscapes](https://www.cityscapes-dataset.com/)” ( :star: here higher PSNR, SSIM, VIF and lower GMSD, LPIPS refer to better performance). Please view loss configurations (:one:-:eight:) in TABLE X.
+:rocket::rocket: We also provide ablation results and checkpoint files on DisCoGAN in demo of image translation “from [Foggy Cityscapes](https://www.cityscapes-dataset.com/) to [Cityscapes](https://www.cityscapes-dataset.com/)” ( :star: here higher PSNR, SSIM, VIF and lower GMSD, LPIPS refer to better performance). Please view loss configurations (:one: - :eight:) in TABLE X.
 
 
 | Method            | PSNR :arrow_up:      | SSIM :arrow_up:      | VIF :arrow_up:       | GMSD :arrow_down:      | LPIPS :arrow_down:     | Checkpoint file                                                          |
