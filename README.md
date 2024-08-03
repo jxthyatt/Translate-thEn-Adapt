@@ -247,7 +247,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 | DisCoGAN :eight:  | 21.49                | 0.839                | 0.844                | 0.105                  | 0.125                  | [Link](https://pan.baidu.com/s/1tvvoXuR239XV_gotTBhOCQ) (Code: xjs4)     |
 
 
-:rocket::rocket: We also provide ablation results and checkpoint files on DisCoGAN in demo of image translation “from [Foggy Cityscapes](https://www.cityscapes-dataset.com/) to [Cityscapes](https://www.cityscapes-dataset.com/)” ( :star: here higher PSNR, SSIM, VIF and lower GMSD, LPIPS refer to better performance). Please view loss configurations (:one: - :eight:) in TABLE X.
+:rocket::rocket: We also provide ablation results and checkpoint files on DisCoGAN in demo of image translation “from [Foggy Cityscapes](https://www.cityscapes-dataset.com/) to [Cityscapes](https://www.cityscapes-dataset.com/)” ( :star: here higher PSNR, SSIM, VIF and lower GMSD, LPIPS refer to better performance). Please view loss configurations (:one:-:eight:) in TABLE X.
 
 
 | Method            | PSNR :arrow_up:      | SSIM :arrow_up:      | VIF :arrow_up:       | GMSD :arrow_down:      | LPIPS :arrow_down:     | Checkpoint file                                                          |
