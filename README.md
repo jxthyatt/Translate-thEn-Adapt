@@ -282,6 +282,9 @@ Official repository for the submitted paper “Federated Hallucination Translati
 | &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       | 23.9           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
 
 
+:rocket::rocket: We provide ablation results and checkpoint files on ProRA in demo of domain adaptation “from [SYNTHIA](https://synthia-dataset.net/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” ( :star: here gain refers to performance gain of overall 19-class mIoU). Please view loss configurations (:one: - :six:) in TABLE IX.
+
+
 | ProRA :one:    | ProRA :two:    | ProRA :three:  | ProRA :four:   | ProRA :five:   | ProRA :six:    | gain           | Checkpoint file                                                            |
 |----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------------------------------------------------------------------|
 |                |                |                |                |                |                | 0.0            | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
