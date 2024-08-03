@@ -266,7 +266,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 
 
 ### Ablation Study on ProRA ( :herb::herb: TABLE VIII + TABLE IX)
-:rocket::rocket: We provide ablation results and checkpoint files on ProRA in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” ( :star: here gain refers to performance gain of overall 19-class mIoU). Please view loss configurations (:one: - :six:) in TABLE VIII.
+:rocket::rocket: We provide ablation results and checkpoint files on ProRA in demo of domain adaptation “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” ( :star: here gain refers to performance gain of overall 19-class mIoU). Please view loss configurations (:one: - :six:) in TABLE VIII.
 
 
 | ProRA :one:    | ProRA :two:    | ProRA :three:  | ProRA :four:   | ProRA :five:   | ProRA :six:    | gain           | Checkpoint file                                                            |
