@@ -265,9 +265,20 @@ Official repository for the submitted paper “Federated Hallucination Translati
 :hotsprings: **Note:** Evaluation metrics include learned perceptual image patch similarity (LPIPS), visual information fidelity (VIF), peak signal noise rate (PSNR), structural similarity index measure (SSIM), and gradient magnitude similarity deviation (GMSD).
 
 
+### Ablation Study on ProRA ( :herb::herb: TABLE VIII + TABLE IX)
 
 
-
+| ProRA :one:    | ProRA :two:    | ProRA :three:  | ProRA :four:   | ProRA :five:   | ProRA :six:    | gain           | Checkpoint file                                                            |
+|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------------------------------------------------------------------|
+|                |                |                |                |                |                | -              | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+|                | &#10003;       |                |                |                |                | 9.2            | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+| &#10003;       | &#10003;       |                |                |                |                | 11.7           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+| &#10003;       | &#10003;       | &#10003;       |                |                |                | 16.9           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+| &#10003;       | &#10003;       |                | &#10003;       |                |                | 22.2           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+| &#10003;       | &#10003;       | &#10003;       | &#10003;       |                |                | 22.4           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+| &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       |                | 22.9           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+| &#10003;       | &#10003;       | &#10003;       | &#10003;       |                | &#10003;       | 23.1           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+| &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       | 23.9           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
 
 
 
