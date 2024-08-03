@@ -262,6 +262,11 @@ Official repository for the submitted paper “Federated Hallucination Translati
 | DisCoGAN :eight:  | 22.94                | 0.804                | 0.797                | 0.115                  | 0.121                  | [Link](https://pan.baidu.com/s/1tvvoXuR239XV_gotTBhOCQ) (Code: xjs4)     |
 
 
+:hotsprings: **Note:** Evaluation metrics include learned perceptual image patch similarity (LPIPS), visual information fidelity (VIF), peak signal noise rate (PSNR), structural similarity index measure (SSIM), and gradient magnitude similarity deviation (GMSD).
+
+
+
+
 
 
 
