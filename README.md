@@ -247,3 +247,24 @@ Official repository for the submitted paper “Federated Hallucination Translati
 | DisCoGAN :eight:  | 21.49                | 0.839                | 0.844                | 0.105                  | 0.125                  | [Link](https://pan.baidu.com/s/1tvvoXuR239XV_gotTBhOCQ) (Code: xjs4)     |
 
 
+:rocket::rocket: We also provide ablation results and checkpoint files on DisCoGAN in demo of image translation “from [Foggy Cityscapes](https://www.cityscapes-dataset.com/) to [Cityscapes](https://www.cityscapes-dataset.com/)” ( :star: here higher PSNR, SSIM, VIF and lower GMSD, LPIPS refer to better performance). Please view loss configurations (:one: - :eight:) in TABLE X.
+
+
+| Method            | PSNR :arrow_up:      | SSIM :arrow_up:      | VIF :arrow_up:       | GMSD :arrow_down:      | LPIPS :arrow_down:     | Checkpoint file                                                          |
+|-------------------|----------------------|----------------------|----------------------|------------------------|------------------------|--------------------------------------------------------------------------|
+| DisCoGAN :one:    | 12.62                | 0.564                | 0.722                | 0.170                  | 0.215                  | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)     |
+| DisCoGAN :two:    | 12.65                | 0.651                | 0.763                | 0.147                  | 0.139                  | [Link](https://pan.baidu.com/s/1duEoAkTePUdHjiyx3xpi_w) (Code: 9mx8)     |
+| DisCoGAN :three:  | 19.38                | 0.781                | 0.781                | 0.126                  | 0.129                  | [Link](https://pan.baidu.com/s/1Dgsggdp0XjA7oB7GZMRnzg) (Code: x85u)     |
+| DisCoGAN :four:   | 19.45                | 0.785                | 0.788                | 0.127                  | 0.129                  | [Link](https://pan.baidu.com/s/1p7ksDnud86JinW5OpomVyg) (Code: ziec)     |
+| DisCoGAN :five:   | 21.92                | 0.791                | 0.788                | 0.121                  | 0.124                  | [Link](https://pan.baidu.com/s/1BFB8mXWZeU6gKxaf8RZsHA) (Code: sqcs)     |
+| DisCoGAN :six:    | 22.48                | 0.789                | 0.786                | 0.119                  | 0.123                  | [Link](https://pan.baidu.com/s/1RYLlXqGXdqbfKhWFQYJ9PQ) (Code: tqvy)     |
+| DisCoGAN :seven:  | 22.50                | 0.796                | 0.794                | 0.119                  | 0.122                  | [Link](https://pan.baidu.com/s/1eM3Tjbjr9T-5JK4yhL6J5g) (Code: asgc)     |
+| DisCoGAN :eight:  | 22.94                | 0.804                | 0.797                | 0.115                  | 0.121                  | [Link](https://pan.baidu.com/s/1tvvoXuR239XV_gotTBhOCQ) (Code: xjs4)     |
+
+
+
+
+
+
+
+
