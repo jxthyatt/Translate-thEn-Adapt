@@ -231,7 +231,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 <img src="assets/Fig4.pdf" width="700px"/></p>
 
 
-### Ablation Study from Cityscapes to Foggy Cityscapes ( :herb::herb: TABLE VII)
+### Ablation Study on DisCoGAN ( :herb::herb: TABLE VII)
 
 
 | Method            | PSNR :arrow_up:      | SSIM :arrow_up:      | VIF :arrow_up:       | GMSD :arrow_down:      | LPIPS :arrow_down:     | Checkpoint file                                                          |
