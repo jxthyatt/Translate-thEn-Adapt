@@ -271,15 +271,15 @@ Official repository for the submitted paper “Federated Hallucination Translati
 
 | ProRA :one:    | ProRA :two:    | ProRA :three:  | ProRA :four:   | ProRA :five:   | ProRA :six:    | Gain           | Checkpoint file                                                            |
 |----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------------------------------------------------------------------|
-|                |                |                |                |                |                | 0.0            | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
-|                | &#10003;       |                |                |                |                | 9.2            | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
-| &#10003;       | &#10003;       |                |                |                |                | 11.7           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
-| &#10003;       | &#10003;       | &#10003;       |                |                |                | 16.9           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
-| &#10003;       | &#10003;       |                | &#10003;       |                |                | 22.2           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
-| &#10003;       | &#10003;       | &#10003;       | &#10003;       |                |                | 22.4           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
-| &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       |                | 22.9           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
-| &#10003;       | &#10003;       | &#10003;       | &#10003;       |                | &#10003;       | 23.1           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
-| &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       | 23.9           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+|                |                |                |                |                |                | 0.0            | [Link](https://pan.baidu.com/s/17CW_JoZsB0DAUG0q7ncTpA) (Code: aj26)       |
+|                | &#10003;       |                |                |                |                | 9.2            | [Link](https://pan.baidu.com/s/1wZVLBT-nQB1mVh0wUxNURA) (Code: evev)       |
+| &#10003;       | &#10003;       |                |                |                |                | 11.7           | [Link](https://pan.baidu.com/s/16pfI3vCwm9XqxaZO_Dx1-Q) (Code: 6deg)       |
+| &#10003;       | &#10003;       | &#10003;       |                |                |                | 16.9           | [Link](https://pan.baidu.com/s/1rvOLaitnv77N9CE01us8JA) (Code: jj51)       |
+| &#10003;       | &#10003;       |                | &#10003;       |                |                | 22.2           | [Link](https://pan.baidu.com/s/1blJIlIyEwptorBdflbwi3g) (Code: 2f5d)       |
+| &#10003;       | &#10003;       | &#10003;       | &#10003;       |                |                | 22.4           | [Link](https://pan.baidu.com/s/1sbC4RobjTcOVxTGjHW46VQ) (Code: 75gs)       |
+| &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       |                | 22.9           | [Link](https://pan.baidu.com/s/1hk1lk5k9NP5VCAYnG-7FDg) (Code: igxx)       |
+| &#10003;       | &#10003;       | &#10003;       | &#10003;       |                | &#10003;       | 23.1           | [Link](https://pan.baidu.com/s/1h5oHEprkc2IA-c3rm1K3QQ) (Code: yk9g)       |
+| &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       | 23.9           | [Link](https://pan.baidu.com/s/1XzeaU-Z0EPC7A9_IGGlf7g) (Code: qam5)       |
 
 
 :rocket::rocket: We provide ablation results and checkpoint files on ProRA in demo of domain adaptation “from [SYNTHIA](https://synthia-dataset.net/) to [Foggy Cityscapes](https://www.cityscapes-dataset.com/)” ( :star: here Gain refers to performance gain of overall 16-class mIoU). Please view loss configurations (:one: - :six:) in TABLE IX.
