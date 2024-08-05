@@ -130,7 +130,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 :rocket::rocket: We provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Zurich](https://people.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/)” ( :star: here model is tested on seen Foggy Zurich dataset). Please view more details in TABLE V.
 
 
-| Method                    | Src/Mid/Tgt       | V :arrow_right: R    | C :arrow_right: F    | mIoU          | gain          | Checkpoint file                                                          |
+| Method                    | Src/Mid/Tgt       | V :arrow_right: R    | C :arrow_right: F    | mIoU          | Gain          | Checkpoint file                                                          |
 |---------------------------|-------------------|----------------------|----------------------|---------------|---------------|--------------------------------------------------------------------------|
 | Source only               | -                 |                      |                      | 20.4          | -             | [Link](https://pan.baidu.com/s/1qp3rz1ojH_f5iUAInSm_7w) (Code: dhrp)     |
 | DisCoGAN (ours)           | GTA/CZ/FZ         | &#10003;             |                      | 35.1          | 14.7          | [Link](https://pan.baidu.com/s/1onYBbSPQiefX_HUSX030gw) (Code: frtn)     |
@@ -141,7 +141,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 :rocket::rocket: We also provide quantitative results and checkpoint files in demo “from [GTA5](https://download.visinf.tu-darmstadt.de/data/from_games/) to [Foggy Zurich](https://people.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/)” ( :star: here model is tested on unseen Foggy Driving dataset). They are not published in TABLE V.
 
 
-| Method                    | Src/Mid/Tgt       | V :arrow_right: R    | C :arrow_right: F    | mIoU          | gain          | Checkpoint file                                                          |
+| Method                    | Src/Mid/Tgt       | V :arrow_right: R    | C :arrow_right: F    | mIoU          | Gain          | Checkpoint file                                                          |
 |---------------------------|-------------------|----------------------|----------------------|---------------|---------------|--------------------------------------------------------------------------|
 | Source only               | -                 |                      |                      | 28.7          | -             | [Link](https://pan.baidu.com/s/1JY4JsvHwffUxBMqgjQDGfQ) (Code: nknr)     |
 | DisCoGAN (ours)           | GTA/CZ/FD         | &#10003;             |                      | 30.4          | 1.7           | [Link](https://pan.baidu.com/s/1j_HxhNZqQwypOEx0JT4UHQ) (Code: u4bc)     |
@@ -161,7 +161,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 :rocket::rocket: We provide quantitative results and checkpoint files in demo “from [SYNTHIA](https://synthia-dataset.net/) to [Foggy Zurich](https://people.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/)” ( :star: here model is tested on seen Foggy Zurich dataset). Please view more details in TABLE V.
 
 
-| Method                    | Src/Mid/Tgt       | V :arrow_right: R    | C :arrow_right: F    | mIoU          | gain          | Checkpoint file                                                          |
+| Method                    | Src/Mid/Tgt       | V :arrow_right: R    | C :arrow_right: F    | mIoU          | Gain          | Checkpoint file                                                          |
 |---------------------------|-------------------|----------------------|----------------------|---------------|---------------|--------------------------------------------------------------------------|
 | Source only               | -                 |                      |                      | 12.4          | -             | [Link](https://pan.baidu.com/s/1YVa8uBLQHuGgj0UOXdbnCQ) (Code: 8gaa)     |
 | DisCoGAN (ours)           | SYN/CZ/FZ         | &#10003;             |                      | 26.2          | 13.8          | [Link](https://pan.baidu.com/s/1iNuRGERGooVkAnTh6SFTXQ) (Code: wtcy)     |
@@ -172,7 +172,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 :rocket::rocket: We also provide quantitative results and checkpoint files in demo “from [SYNTHIA](https://synthia-dataset.net/) to [Foggy Zurich](https://people.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/)” ( :star: here model is tested on unseen Foggy Driving dataset). They are not published in TABLE V.
 
 
-| Method                    | Src/Mid/Tgt       | V :arrow_right: R    | C :arrow_right: F    | mIoU          | gain          | Checkpoint file                                                          |
+| Method                    | Src/Mid/Tgt       | V :arrow_right: R    | C :arrow_right: F    | mIoU          | Gain          | Checkpoint file                                                          |
 |---------------------------|-------------------|----------------------|----------------------|---------------|---------------|--------------------------------------------------------------------------|
 | Source only               | -                 |                      |                      | 21.2          | -             | [Link](https://pan.baidu.com/s/1fPqNAfqQSAo8y2hJ5eNN8w) (Code: yebt)     |
 | DisCoGAN (ours)           | SYN/CZ/FD         | &#10003;             |                      | 33.5          | 12.3          | [Link](https://pan.baidu.com/s/17ddO2dz7UC5gdS1GccvuWA) (Code: qquu)     |
@@ -287,15 +287,15 @@ Official repository for the submitted paper “Federated Hallucination Translati
 
 | ProRA :one:    | ProRA :two:    | ProRA :three:  | ProRA :four:   | ProRA :five:   | ProRA :six:    | Gain           | Checkpoint file                                                            |
 |----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------------------------------------------------------------------|
-|                |                |                |                |                |                | 0.0            | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
-|                | &#10003;       |                |                |                |                | 10.3           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
-| &#10003;       | &#10003;       |                |                |                |                | 12.3           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
-| &#10003;       | &#10003;       | &#10003;       |                |                |                | 15.3           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
-| &#10003;       | &#10003;       |                | &#10003;       |                |                | 19.1           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
-| &#10003;       | &#10003;       | &#10003;       | &#10003;       |                |                | 21.9           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
-| &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       |                | 24.2           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
-| &#10003;       | &#10003;       | &#10003;       | &#10003;       |                | &#10003;       | 23.9           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
-| &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       | 24.6           | [Link](https://pan.baidu.com/s/1jnX1HF69xvtigbm4XEg3jA) (Code: b5mb)       |
+|                |                |                |                |                |                | 0.0            | [Link](https://pan.baidu.com/s/15W-Vijn7XPtk-ohDV7vsPw) (Code: qhvg)       |
+|                | &#10003;       |                |                |                |                | 10.3           | [Link](https://pan.baidu.com/s/1McLKDvxJN1f26FdcMW0CpQ) (Code: 5g4j)       |
+| &#10003;       | &#10003;       |                |                |                |                | 12.3           | [Link](https://pan.baidu.com/s/1vV2qvI1y6ryIoxEug8kqdA) (Code: 5mus)       |
+| &#10003;       | &#10003;       | &#10003;       |                |                |                | 15.3           | [Link](https://pan.baidu.com/s/1IoxvxwBVcvgPEs2grhqImg) (Code: xv7b)       |
+| &#10003;       | &#10003;       |                | &#10003;       |                |                | 19.1           | [Link](https://pan.baidu.com/s/1QtmzcH6eUgJlNas4xDCKLA) (Code: z8vw)       |
+| &#10003;       | &#10003;       | &#10003;       | &#10003;       |                |                | 21.9           | [Link](https://pan.baidu.com/s/1oVkRpPx69AMKoz-d1yYeqQ) (Code: uur8)       |
+| &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       |                | 24.2           | [Link](https://pan.baidu.com/s/1hhc8l0I7r_MjLh5N2esnKQ) (Code: sdai)       |
+| &#10003;       | &#10003;       | &#10003;       | &#10003;       |                | &#10003;       | 23.9           | [Link](https://pan.baidu.com/s/1Xbas2oRZKDzEXufy42FlNw) (Code: z22y)       |
+| &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       | &#10003;       | 24.6           | [Link](https://pan.baidu.com/s/1uEwRojtFr3g2P0Eoft-dRA) (Code: 5ux5)       |
 
 
 
