@@ -106,7 +106,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 |---------------------------|------------|---------------------|---------------|---------------|---------------|--------------------------------------------------------------------------|
 | Source only               | -          | -                   | 27.15         | 30.25         | 13.65         | [Link](https://pan.baidu.com/s/1R0pwqSI3aHoBlTVB9RwsUg) (Code: bq4c)     |
 | ADVENT                    | &#10007;   | CVPR’19             | 32.91         | 31.98         | 15.69         | [Link](https://pan.baidu.com/s/1oJ2vBBHMuNTXN2l9cnfCfw) (Code: xp4g)     |
-| DISE                      | &#10007;   | CVPR’19             | 39.28         | 33.07         | 18.27         | [Link](https://pan.baidu.com/s/1dNBUF-uVDMuWRsAnm0J3uw) (Code: 2sup)     |
+| DISE                      | &#10007;   | CVPR’19             | 39.28         | 33.07         | 18.27         | [Link](https://pan.baidu.com/s/1vcj22VDG0SaIjgqOTkCMlw) (Code: igyk)     |
 | CAG-UDA                   | &#10007;   | NeurIPS’19          | 42.31         | 35.08         | 24.86         | [Link](https://pan.baidu.com/s/1joz8w9Msnm53xwJ6OWDlhQ) (Code: sfvz)     |
 | MaxSquareLoss             | &#10007;   | ICCV’19             | 40.24         | 37.07         | 23.19         | [Link](https://pan.baidu.com/s/1gbsLo9FjRvN2LZtXXEntUw) (Code: p27s)     |
 | Classes Matter            | &#10007;   | ECCV’20             | 44.61         | 41.26         | 25.39         | [Link](https://pan.baidu.com/s/1oPLhwlY9qvc-zmib0bdFAg) (Code: 5ji6)     |
