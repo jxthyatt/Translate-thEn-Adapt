@@ -52,7 +52,7 @@ Official repository for the submitted paper “Federated Hallucination Translati
 | LADD                         | A              | WACV’23             | 32.9            | 5.7                   | [Link](https://pan.baidu.com/s/1VDULhtLO4VLy7W0l1v-9rw) (Code: exc4)     |
 | DisCoGAN (ours)              | A              | TMM’24              | 39.5            | 12.3                  | [Link](https://pan.baidu.com/s/10xerTzDBD2KlOriyjDux9g) (Code: hswv)     |
 | SFDA-Seg                     | B              | ICCV’21             | 35.3            | 8.1                   | [Link](https://pan.baidu.com/s/1i_WcN8wlZRI8T0T1FMS8IA) (Code: yf92)     |
-| HCL                          | B              | NeurIPS’21          | 36.9            | 9.7                   | [Link](https://pan.baidu.com/s/1FP6A6Hk3IxFBhcgNVrNUfA) (Code: neci)     |
+| HCL                          | B              | NeurIPS’21          | 36.9            | 9.7                   | [Link](https://pan.baidu.com/s/1XBh_ELFpseHxJr0ODqD3xw) (Code: 3f8r)     |
 | LDBE                         | B              | MM’21               | 36.1            | 8.9                   | [Link](https://pan.baidu.com/s/1PrZ0PPoMFy_4JTalV3_cUg) (Code: 5e62)     |
 | ProDA                        | B              | CVPR’21             | 44.1            | 16.9                  | [Link](https://pan.baidu.com/s/1sA0UltvMwOXLTgXMsxiRrw) (Code: 4xxj)     |
 | SFOCDA                       | B              | TCSVT’22            | 35.5            | 8.3                   | [Link](https://pan.baidu.com/s/15a_Ew5pdVin-VhNDMh-Gww) (Code: 4t7a)     |
